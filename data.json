@@ -1,13 +1,13 @@
 {
- "stand": "2026-10-27T16:10:00+01:00",
+ "stand": "2026-10-27T16:45:00+01:00",
  "startKonto": 4528.13,
  "tagesstart": 4589.49,
  "balance": 4589.49,
- "equity": 4608.47,
+ "equity": 4608.33,
  "margin": 454.55,
  "tageszielProzent": 3,
  "tagesstoppProzent": 5,
- "heuteErgebnis": 18.98,
+ "heuteErgebnis": 18.84,
  "offenePositionen": [
   {
    "symbol": "EURUSD",
@@ -16,8 +16,8 @@
    "einstieg": 1.11577,
    "sl": 1.117,
    "tp": 1.1095,
-   "aktuell": 1.11436,
-   "ergebnisEur": 18.98,
+   "aktuell": 1.11437,
+   "ergebnisEur": 18.84,
    "kontoBeiEinstieg": 4589.49,
    "eroeffnet": "2026-10-27T08:15:02+01:00",
    "ticket": "59060141422",
@@ -32,7 +32,7 @@
    "einstieg": 4038.0,
    "sl": 4022.0,
    "tp": 4070.0,
-   "aktuell": 4054.49,
+   "aktuell": 4060.34,
    "ergebnisEur": 0,
    "kontoBeiEinstieg": 4589.49,
    "eroeffnet": "2026-10-27T16:10:45+01:00",
@@ -201,13 +201,13 @@
   {
    "zeit": "2026-10-27T16:10:00+01:00",
    "equity": 4608.47
+  },
+  {
+   "zeit": "2026-10-27T16:45:00+01:00",
+   "equity": 4608.33
   }
  ],
  "feed": [
-  {
-   "zeit": "2026-10-27T12:40:00+01:00",
-   "text": "EURUSD Short läuft (+18,8 EUR), SL 1,11700 bleibt. Kein neuer Trade: kein Setup mit CRV ab 1,5, US-Auftragseingänge um 13:30."
-  },
   {
    "zeit": "2026-10-27T13:15:00+01:00",
    "text": "EURUSD Short läuft (+7,40 EUR), kleine Erholung auf 1,1152, SL 1,11700 bleibt. Kein neuer Trade: US-Auftragseingänge um 13:30, Gold mitten in der Range."
@@ -235,6 +235,10 @@
   {
    "zeit": "2026-10-27T16:10:00+01:00",
    "text": "Order gelegt: Gold Buy Limit 0,02 @ 4.038 (SL 4.022, TP 4.070, Risiko ≈ 29 €). Gold hat stündlich über 4.040 geschlossen – Einstieg erst beim Rücksetzer. EURUSD-Short läuft (+18,98 €)."
+  },
+  {
+   "zeit": "2026-10-27T16:45:00+01:00",
+   "text": "Kein neuer Trade. Gold steigt weiter auf 4.060 – das Buy Limit bei 4.038 wartet auf den Rücksetzer, kein Nachjagen. EURUSD-Short läuft (+18,84 €), SL 1,11700 bleibt."
   }
  ]
 }
