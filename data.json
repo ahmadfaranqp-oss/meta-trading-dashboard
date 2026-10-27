@@ -1,13 +1,13 @@
 {
-  "stand": "2026-10-27T09:35:00+01:00",
+  "stand": "2026-10-27T10:05:00+01:00",
   "startKonto": 4528.13,
   "tagesstart": 4589.49,
   "balance": 4589.49,
-  "equity": 4591.6,
+  "equity": 4595.7,
   "margin": 454.55,
   "tageszielProzent": 3,
   "tagesstoppProzent": 5,
-  "heuteErgebnis": 2.11,
+  "heuteErgebnis": 6.21,
   "offenePositionen": [
     {
       "symbol": "EURUSD",
@@ -16,8 +16,8 @@
       "einstieg": 1.11577,
       "sl": 1.1185,
       "tp": 1.1095,
-      "aktuell": 1.1156,
-      "ergebnisEur": 2.11,
+      "aktuell": 1.11531,
+      "ergebnisEur": 6.21,
       "kontoBeiEinstieg": 4589.49,
       "eroeffnet": "2026-10-27T08:15:02+01:00",
       "ticket": "59060141422",
@@ -133,6 +133,10 @@
     {
       "zeit": "2026-10-27T09:35:00+01:00",
       "equity": 4591.6
+    },
+    {
+      "zeit": "2026-10-27T10:05:00+01:00",
+      "equity": 4595.7
     }
   ],
   "feed": [
@@ -211,6 +215,10 @@
     {
       "zeit": "2026-10-27T09:35:00+01:00",
       "text": "EURUSD Short bei 1,11560, +2,11 €. Abwärtstrend intakt, SL bleibt 1,11850. Kein neuer Trade: Gold knapp unter 4.000 ohne bestätigten Bruch, Indizes weiter gesperrt."
+    },
+    {
+      "zeit": "2026-10-27T10:05:00+01:00",
+      "text": "EURUSD Short bei 1,11531, +6,21 €. Abwärtstrend intakt, SL bleibt 1,11850. Kein neuer Trade: Gold knapp unter 4.000, aber kein H1-Schluss unter 3.995; Indizes weiter gesperrt."
     }
   ]
 }
