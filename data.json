@@ -1,13 +1,13 @@
 {
- "stand": "2026-10-27T13:15:00+01:00",
+ "stand": "2026-10-27T13:40:00+01:00",
  "startKonto": 4528.13,
  "tagesstart": 4589.49,
  "balance": 4589.49,
- "equity": 4596.89,
+ "equity": 4597.56,
  "margin": 454.55,
  "tageszielProzent": 3,
  "tagesstoppProzent": 5,
- "heuteErgebnis": 7.4,
+ "heuteErgebnis": 8.07,
  "offenePositionen": [
   {
    "symbol": "EURUSD",
@@ -16,8 +16,8 @@
    "einstieg": 1.11577,
    "sl": 1.117,
    "tp": 1.1095,
-   "aktuell": 1.11522,
-   "ergebnisEur": 7.4,
+   "aktuell": 1.11517,
+   "ergebnisEur": 8.07,
    "kontoBeiEinstieg": 4589.49,
    "eroeffnet": "2026-10-27T08:15:02+01:00",
    "ticket": "59060141422",
@@ -161,6 +161,10 @@
   {
    "zeit": "2026-10-27T13:15:00+01:00",
    "equity": 4596.89
+  },
+  {
+   "zeit": "2026-10-27T13:40:00+01:00",
+   "equity": 4597.56
   }
  ],
  "feed": [
@@ -267,6 +271,10 @@
   {
    "zeit": "2026-10-27T13:15:00+01:00",
    "text": "EURUSD Short läuft (+7,40 EUR), kleine Erholung auf 1,1152, SL 1,11700 bleibt. Kein neuer Trade: US-Auftragseingänge um 13:30, Gold mitten in der Range."
+  },
+  {
+   "zeit": "2026-10-27T13:40:00+01:00",
+   "text": "EURUSD Short läuft (+8,07 EUR), SL 1,11700 bleibt. US-Auftragseingänge leicht schwächer (+1,8 % statt +2,0 %), Gold steigt auf 4.024. Kein neuer Trade: News-Sperre bis 13:45, Gold-Ablehnung bei 4.025–4.035 abwarten."
   }
  ]
 }
