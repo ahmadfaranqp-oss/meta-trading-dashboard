@@ -1,13 +1,13 @@
 {
- "stand": "2026-10-27T17:40:00+01:00",
+ "stand": "2026-10-27T18:10:00+01:00",
  "startKonto": 4528.13,
  "tagesstart": 4589.49,
  "balance": 4589.49,
- "equity": 4610.63,
+ "equity": 4614.0,
  "margin": 454.55,
  "tageszielProzent": 3,
  "tagesstoppProzent": 5,
- "heuteErgebnis": 21.14,
+ "heuteErgebnis": 24.51,
  "offenePositionen": [
   {
    "symbol": "EURUSD",
@@ -16,8 +16,8 @@
    "einstieg": 1.11577,
    "sl": 1.117,
    "tp": 1.1095,
-   "aktuell": 1.11421,
-   "ergebnisEur": 21.14,
+   "aktuell": 1.11395,
+   "ergebnisEur": 24.51,
    "kontoBeiEinstieg": 4589.49,
    "eroeffnet": "2026-10-27T08:15:02+01:00",
    "ticket": "59060141422",
@@ -32,7 +32,7 @@
    "einstieg": 4038.0,
    "sl": 4022.0,
    "tp": 4070.0,
-   "aktuell": 4060.44,
+   "aktuell": 4060.27,
    "ergebnisEur": 0,
    "kontoBeiEinstieg": 4589.49,
    "eroeffnet": "2026-10-27T16:10:45+01:00",
@@ -213,6 +213,10 @@
   {
    "zeit": "2026-10-27T17:40:00+01:00",
    "equity": 4610.63
+  },
+  {
+   "zeit": "2026-10-27T18:10:00+01:00",
+   "equity": 4614.0
   }
  ],
  "feed": [
@@ -251,6 +255,10 @@
   {
    "zeit": "2026-10-27T17:40:00+01:00",
    "text": "Kein neuer Trade. Gold pausiert am Tageshoch bei 4.060 – das Buy Limit bei 4.038 wartet auf den Rücksetzer. EURUSD-Short läuft (+21,14 €), SL 1,11700 bleibt. Lagarde um 18:00."
+  },
+  {
+   "zeit": "2026-10-27T18:10:00+01:00",
+   "text": "Kein neuer Trade. EURUSD-Short läuft (+24,51 €) bei 1,1139, SL 1,11700 bleibt. Gold hält sich bei 4.060 unter dem Tageshoch – Buy Limit bei 4.038 wartet auf den Rücksetzer. Lagarde-Fenster für EUR bis 18:15."
   }
  ]
 }
