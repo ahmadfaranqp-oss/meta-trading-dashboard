@@ -352,12 +352,15 @@ function renderHistory(list) {
     const base = num(trade.kontoBeiEinstieg);
     const ratio = pnl != null && base ? pnl / base : null;
     const tile = el("article", `tile ${tone(pnl)}`);
-    tile.append(el("p", "sym", trade.symbol || "—"));
+    const copy = el("div", "tile-copy");
+    copy.append(el("p", "sym", trade.symbol || "—"));
     const meta = [directionLabel(trade.richtung), formatLot(num(trade.lot)), trade.datum ? dayOnly(trade.datum) : ""]
       .filter((part) => part && part !== "—");
-    tile.append(el("p", "meta", meta.join(" · ")));
-    tile.append(el("p", `pct ${tone(ratio)}`, formatPctRatio(ratio)));
-    tile.append(el("p", `eur ${tone(pnl)}`, formatEur(pnl, true)));
+    copy.append(el("p", "meta", meta.join(" · ")));
+    const pnlBox = el("div", "tile-pnl");
+    pnlBox.append(el("p", `pct ${tone(ratio)}`, formatPctRatio(ratio)));
+    pnlBox.append(el("p", `eur ${tone(pnl)}`, formatEur(pnl, true)));
+    tile.append(copy, pnlBox);
     const entry = num(trade.einstieg);
     const exit = num(trade.ausstieg);
     if (entry != null || exit != null) {
