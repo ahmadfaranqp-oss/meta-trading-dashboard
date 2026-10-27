@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-27T06:42:00+01:00",
+  "stand": "2026-10-27T07:20:00+01:00",
   "startKonto": 4528.13,
   "tagesstart": 4589.49,
   "balance": 4589.49,
@@ -106,6 +106,10 @@
     {
       "zeit": "2026-10-27T06:42:00+01:00",
       "equity": 4589.49
+    },
+    {
+      "zeit": "2026-10-27T07:20:00+01:00",
+      "equity": 4589.49
     }
   ],
   "feed": [
@@ -156,6 +160,10 @@
     {
       "zeit": "2026-10-27T06:42:00+01:00",
       "text": "Order 59058125381 weiter offen. Gold 4.006,90 knapp über 4.000, kein sauberes Setup. Kein neuer Trade."
+    },
+    {
+      "zeit": "2026-10-27T07:20:00+01:00",
+      "text": "Order 59058125381 weiter offen. Gold 4.005,50 direkt über 4.000, kein sauberes Setup. Kein neuer Trade."
     }
   ]
 }
