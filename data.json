@@ -153,10 +153,6 @@
   ],
   "feed": [
     {
-      "zeit": "2026-10-27T11:40:00+01:00",
-      "text": "EURUSD-Short läuft (+18 EUR), SL 1,1170 bleibt. Gold zurück über 4000 ohne Signal, Dollar fest vor Fed – kein neuer Trade."
-    },
-    {
       "zeit": "2026-10-26T14:10:00+01:00",
       "text": "Kein Trade. Kein klares Setup mit Chance-Risiko ab 1,5:1."
     },
@@ -183,6 +179,70 @@
     {
       "zeit": "2026-10-26T19:40:00+01:00",
       "text": "Gold-Short +41,22 € bei Kurs 4.014,70. Keine neuen Trades (Sperre ab 19:30). Position läuft mit SL/TP."
+    },
+    {
+      "zeit": "2026-10-26T20:05:00+01:00",
+      "text": "Tagesabschluss: XAUUSD Short bei 4.010,28 geschlossen, +61,36 €. Endstand 4.589,49 €."
+    },
+    {
+      "zeit": "2026-10-27T05:25:00+01:00",
+      "text": "Sell Limit XAUUSD 0,05 bei 4.033, SL 4.045, TP 4.005 platziert. Ticket 59058125381, gültig bis 12:00, Risiko ca. 54 €."
+    },
+    {
+      "zeit": "2026-10-27T05:46:00+01:00",
+      "text": "Order 59058125381 weiter offen. Kein neuer Trade. Gold unter dem Tageshoch, JPY und AUD ohne Signal."
+    },
+    {
+      "zeit": "2026-10-27T06:12:00+01:00",
+      "text": "Order 59058125381 weiter offen. Gold 4.007,64, Limit 4.033 bleibt bis 12:00 liegen. Kein neuer Trade."
+    },
+    {
+      "zeit": "2026-10-27T06:42:00+01:00",
+      "text": "Order 59058125381 weiter offen. Gold 4.006,90 knapp über 4.000, kein sauberes Setup. Kein neuer Trade."
+    },
+    {
+      "zeit": "2026-10-27T07:20:00+01:00",
+      "text": "Order 59058125381 weiter offen. Gold 4.005,50 direkt über 4.000, kein sauberes Setup. Kein neuer Trade."
+    },
+    {
+      "zeit": "2026-10-27T07:44:00+01:00",
+      "text": "Order 59058125381 weiter offen. Gold testet 4.000, Indizes noch gesperrt. Kein neuer Trade, Frühschicht beendet."
+    },
+    {
+      "zeit": "2026-10-27T08:10:00+01:00",
+      "text": "Gold-Order 59058125381 gelöscht: Gold bei 4.001 weit unter dem Limit 4.033, Margin für EURUSD frei gemacht."
+    },
+    {
+      "zeit": "2026-10-27T08:15:00+01:00",
+      "text": "EURUSD Short 0,15 bei 1,11577 eröffnet, SL 1,11850, TP 1,10950. Ticket 59060141422, Risiko ca. 37 €, CRV 2,3:1. Grund: H1-Abwärtstrend, fester Dollar vor FOMC."
+    },
+    {
+      "zeit": "2026-10-27T08:30:00+01:00",
+      "text": "EURUSD Short bei 1,11639, −8,33 €. Abwärtstrend intakt, SL 1,11850 bleibt. Kein neuer Trade, Gold auf 4.000-Support ohne Signal, Indizes noch gesperrt."
+    },
+    {
+      "zeit": "2026-10-27T09:00:00+01:00",
+      "text": "EURUSD Short bei 1,11599, −2,96 €. Trend intakt, SL bleibt. Kein neuer Trade: Gold nur knapp unter 4.000 ohne bestätigten Bruch, DE40 weiter gesperrt."
+    },
+    {
+      "zeit": "2026-10-27T09:35:00+01:00",
+      "text": "EURUSD Short bei 1,11560, +2,11 €. Abwärtstrend intakt, SL bleibt 1,11850. Kein neuer Trade: Gold knapp unter 4.000 ohne bestätigten Bruch, Indizes weiter gesperrt."
+    },
+    {
+      "zeit": "2026-10-27T10:05:00+01:00",
+      "text": "EURUSD Short bei 1,11531, +6,21 €. Abwärtstrend intakt, SL bleibt 1,11850. Kein neuer Trade: Gold knapp unter 4.000, aber kein H1-Schluss unter 3.995; Indizes weiter gesperrt."
+    },
+    {
+      "zeit": "2026-10-27T10:37:00+01:00",
+      "text": "EURUSD Short bei 1,11391, +25,05 €. SL von 1,11850 auf 1,11700 nachgezogen, Risiko jetzt ca. 14 €. Kein neuer Trade: Gold-Bruch unter 4.000 weiter unbestätigt, Indizes gesperrt."
+    },
+    {
+      "zeit": "2026-10-27T11:05:00+01:00",
+      "text": "EURUSD Short bei 1,11411, +21,95 €. Trend intakt, SL bleibt 1,11700. Kein neuer Trade: Gold wieder über 4.000 ohne Signal, Indizes gesperrt."
+    },
+    {
+      "zeit": "2026-10-27T11:40:00+01:00",
+      "text": "EURUSD Short bei 1,11441, +18,31 €. Konsolidierung über Tagestief 1,1135, SL bleibt 1,11700. Gold zurück über 4.000 ohne Signal, Dollar fest vor Fed – kein neuer Trade."
     }
   ]
 }
