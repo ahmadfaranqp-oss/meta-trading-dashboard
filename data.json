@@ -1,0 +1,102 @@
+{
+  "stand": "2026-10-27T06:12:00+01:00",
+  "startKonto": 4528.13,
+  "tagesstart": 4589.49,
+  "balance": 4589.49,
+  "equity": 4589.49,
+  "margin": 0,
+  "tageszielProzent": 3,
+  "tagesstoppProzent": 5,
+  "heuteErgebnis": 0,
+  "offenePositionen": [],
+  "pendingOrders": [
+    {
+      "symbol": "XAUUSD",
+      "typ": "Sell Limit",
+      "lot": 0.05,
+      "preis": 4033,
+      "sl": 4045,
+      "tp": 4005,
+      "risikoEur": 54,
+      "gueltigBis": "2026-10-27T12:00:00+01:00",
+      "ticket": "59058125381"
+    }
+  ],
+  "historie": [
+    {
+      "datum": "2026-10-26T20:05:00+01:00",
+      "symbol": "XAUUSD",
+      "richtung": "short",
+      "lot": 0.05,
+      "einstieg": 4024,
+      "ausstieg": 4010.28,
+      "ergebnisEur": 61.36,
+      "kontoBeiEinstieg": 4528.13
+    }
+  ],
+  "equityKurve": [
+    { "zeit": "2026-10-26T13:42:00+01:00", "equity": 4528.13 },
+    { "zeit": "2026-10-26T14:10:00+01:00", "equity": 4528.13 },
+    { "zeit": "2026-10-26T14:35:00+01:00", "equity": 4528.13 },
+    { "zeit": "2026-10-26T15:07:00+01:00", "equity": 4528.13 },
+    { "zeit": "2026-10-26T15:44:00+01:00", "equity": 4528.13 },
+    { "zeit": "2026-10-26T16:12:00+01:00", "equity": 4535.78 },
+    { "zeit": "2026-10-26T16:50:00+01:00", "equity": 4555 },
+    { "zeit": "2026-10-26T17:05:00+01:00", "equity": 4552 },
+    { "zeit": "2026-10-26T17:42:00+01:00", "equity": 4550.04 },
+    { "zeit": "2026-10-26T18:13:00+01:00", "equity": 4512.71 },
+    { "zeit": "2026-10-26T18:35:00+01:00", "equity": 4526.43 },
+    { "zeit": "2026-10-26T19:15:00+01:00", "equity": 4544.57 },
+    { "zeit": "2026-10-26T19:40:00+01:00", "equity": 4569.35 },
+    { "zeit": "2026-10-26T20:05:00+01:00", "equity": 4589.49 },
+    { "zeit": "2026-10-27T05:18:00+01:00", "equity": 4589.49 },
+    { "zeit": "2026-10-27T05:46:00+01:00", "equity": 4589.49 },
+    { "zeit": "2026-10-27T06:12:00+01:00", "equity": 4589.49 }
+  ],
+  "feed": [
+    {
+      "zeit": "2026-10-26T14:10:00+01:00",
+      "text": "Kein Trade. Kein klares Setup mit Chance-Risiko ab 1,5:1."
+    },
+    {
+      "zeit": "2026-10-26T14:40:00+01:00",
+      "text": "Sell Limit XAUUSD 0,05 bei 4.024, SL 4.040, TP 3.985 platziert. Ticket 59048718202."
+    },
+    {
+      "zeit": "2026-10-26T15:12:00+01:00",
+      "text": "Buy Limit AUDUSD 0,45 bei 0,70030, SL 0,69900, TP 0,70350 platziert. Ticket 59049673728."
+    },
+    {
+      "zeit": "2026-10-26T15:57:00+01:00",
+      "text": "XAUUSD Sell 0,05 bei 4.024 ausgelöst. Ticket 59048718202, SL 4.040, TP 3.985."
+    },
+    {
+      "zeit": "2026-10-26T16:45:00+01:00",
+      "text": "AUDUSD Buy Limit 59049673728 gelöscht. Geschätzte Margin mit Gold zusammen etwa 32 %, über dem Limit von 15 %."
+    },
+    {
+      "zeit": "2026-10-26T18:13:00+01:00",
+      "text": "Gold-Short −15,42 € bei Kurs 4.026,94. SL bleibt 4.040. Kein neuer Trade, Margin-Budget belegt."
+    },
+    {
+      "zeit": "2026-10-26T19:40:00+01:00",
+      "text": "Gold-Short +41,22 € bei Kurs 4.014,70. Keine neuen Trades (Sperre ab 19:30). Position läuft mit SL/TP."
+    },
+    {
+      "zeit": "2026-10-26T20:05:00+01:00",
+      "text": "Tagesabschluss: XAUUSD Short bei 4.010,28 geschlossen, +61,36 €. Endstand 4.589,49 €."
+    },
+    {
+      "zeit": "2026-10-27T05:25:00+01:00",
+      "text": "Sell Limit XAUUSD 0,05 bei 4.033, SL 4.045, TP 4.005 platziert. Ticket 59058125381, gültig bis 12:00, Risiko ca. 54 €."
+    },
+    {
+      "zeit": "2026-10-27T05:46:00+01:00",
+      "text": "Order 59058125381 weiter offen. Kein neuer Trade. Gold unter dem Tageshoch, JPY und AUD ohne Signal."
+    },
+    {
+      "zeit": "2026-10-27T06:12:00+01:00",
+      "text": "Order 59058125381 weiter offen. Gold 4.007,64, Limit 4.033 bleibt bis 12:00 liegen. Kein neuer Trade."
+    }
+  ]
+}
