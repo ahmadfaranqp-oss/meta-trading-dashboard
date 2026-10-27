@@ -1,27 +1,30 @@
 {
-  "stand": "2026-10-27T07:44:00+01:00",
+  "stand": "2026-10-27T08:15:00+01:00",
   "startKonto": 4528.13,
   "tagesstart": 4589.49,
   "balance": 4589.49,
-  "equity": 4589.49,
-  "margin": 0,
+  "equity": 4590.16,
+  "margin": 454.55,
   "tageszielProzent": 3,
   "tagesstoppProzent": 5,
-  "heuteErgebnis": 0,
-  "offenePositionen": [],
-  "pendingOrders": [
+  "heuteErgebnis": 0.67,
+  "offenePositionen": [
     {
-      "symbol": "XAUUSD",
-      "typ": "Sell Limit",
-      "lot": 0.05,
-      "preis": 4033,
-      "sl": 4045,
-      "tp": 4005,
-      "risikoEur": 54,
-      "gueltigBis": "2026-10-27T12:00:00+01:00",
-      "ticket": "59058125381"
+      "symbol": "EURUSD",
+      "richtung": "short",
+      "lot": 0.15,
+      "einstieg": 1.11577,
+      "sl": 1.1185,
+      "tp": 1.1095,
+      "aktuell": 1.11573,
+      "ergebnisEur": 0.67,
+      "kontoBeiEinstieg": 4589.49,
+      "eroeffnet": "2026-10-27T08:15:02+01:00",
+      "ticket": "59060141422",
+      "risikoEur": 36.7
     }
   ],
+  "pendingOrders": [],
   "historie": [
     {
       "datum": "2026-10-26T20:05:00+01:00",
@@ -114,6 +117,10 @@
     {
       "zeit": "2026-10-27T07:44:00+01:00",
       "equity": 4589.49
+    },
+    {
+      "zeit": "2026-10-27T08:15:00+01:00",
+      "equity": 4590.16
     }
   ],
   "feed": [
@@ -172,6 +179,14 @@
     {
       "zeit": "2026-10-27T07:44:00+01:00",
       "text": "Order 59058125381 weiter offen. Gold testet 4.000, Indizes noch gesperrt. Kein neuer Trade, Frühschicht beendet."
+    },
+    {
+      "zeit": "2026-10-27T08:10:00+01:00",
+      "text": "Gold-Order 59058125381 gelöscht: Gold bei 4.001 weit unter dem Limit 4.033, Margin für EURUSD frei gemacht."
+    },
+    {
+      "zeit": "2026-10-27T08:15:00+01:00",
+      "text": "EURUSD Short 0,15 bei 1,11577 eröffnet, SL 1,11850, TP 1,10950. Ticket 59060141422, Risiko ca. 37 €, CRV 2,3:1. Grund: H1-Abwärtstrend, fester Dollar vor FOMC."
     }
   ]
 }
