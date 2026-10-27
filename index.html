@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f4f0e8">
+  <meta name="description" content="Meta Trading, MT5 Demo. Kontostand in EUR. Demokonto, keine Anlageberatung.">
+  <title>Meta Trading · MT5 Demo</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%231c1712'/%3E%3Ctext x='16' y='21' text-anchor='middle' font-family='Georgia,serif' font-size='13' fill='%23f6f1ea'%3EMT%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,560;9..144,640&family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="wrap">
+    <header class="top">
+      <div class="brand">
+        <div class="logo" aria-hidden="true">MT</div>
+        <div>
+          <h1>Meta Trading</h1>
+          <p class="tag">MT5 Demo</p>
+        </div>
+      </div>
+      <p class="ccy">EUR</p>
+    </header>
+
+    <p id="status" class="banner" role="status">Kontostand wird geladen …</p>
+    <p id="error" class="banner is-error" role="alert" hidden></p>
+    <noscript>
+      <p class="banner is-error">Diese Seite braucht JavaScript, um data.json zu laden.</p>
+    </noscript>
+
+    <main id="main">
+      <article class="hero" id="hero" hidden>
+        <div class="hero-top">
+          <p class="eyebrow">Ergebnis seit Start</p>
+          <div class="live" id="live">
+            <span class="dot" id="fresh-dot" aria-hidden="true"></span>
+            <span id="fresh-label">aktuell</span>
+          </div>
+        </div>
+        <p class="profit-eur" id="profit-eur">—</p>
+        <p class="profit-pct" id="profit-pct">—</p>
+        <p class="basis" id="basis">Start —</p>
+
+        <dl class="stats">
+          <div>
+            <dt>Equity</dt>
+            <dd id="equity">—</dd>
+          </div>
+          <div>
+            <dt>Balance</dt>
+            <dd id="balance">—</dd>
+          </div>
+          <div>
+            <dt>Margin</dt>
+            <dd id="margin">—</dd>
+          </div>
+        </dl>
+
+        <div class="today">
+          <div class="today-head">
+            <span>Heute</span>
+            <strong id="today-eur">—</strong>
+          </div>
+          <div class="meter" id="today-meter" role="meter" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Fortschritt zum Tagesziel">
+            <span id="today-bar"></span>
+          </div>
+          <div class="today-foot">
+            <span id="today-target">Ziel —</span>
+            <span id="today-progress">0 %</span>
+          </div>
+          <p class="stop-line" id="today-stop">Stopp —</p>
+        </div>
+
+        <p class="trade-line" id="trade-line">—</p>
+        <p class="stand" id="fresh-line">Stand: —</p>
+      </article>
+
+      <section class="block" id="sec-open" hidden>
+        <div class="sec-head">
+          <h2>Offene Positionen</h2>
+          <span class="count" id="open-count"></span>
+        </div>
+        <div id="open-list" class="stack"></div>
+      </section>
+
+      <section class="block" id="sec-pending" hidden>
+        <div class="sec-head">
+          <h2>Wartende Orders</h2>
+          <span class="count" id="pending-count"></span>
+        </div>
+        <div id="pending-list" class="stack"></div>
+      </section>
+
+      <section class="block" id="sec-history" hidden>
+        <div class="sec-head">
+          <h2>Geschlossene Trades</h2>
+          <span class="count" id="history-count"></span>
+        </div>
+        <div id="history-list" class="tiles"></div>
+      </section>
+
+      <section class="block" id="sec-equity" hidden>
+        <div class="sec-head">
+          <h2>Equity-Verlauf</h2>
+          <span class="count" id="equity-delta"></span>
+        </div>
+        <div class="card" id="spark"></div>
+      </section>
+
+      <section class="block" id="sec-feed" hidden>
+        <div class="sec-head">
+          <h2>Aktivität</h2>
+          <span class="count" id="feed-count"></span>
+        </div>
+        <div class="card feed-card">
+          <ol id="feed-list" class="feed"></ol>
+        </div>
+      </section>
+    </main>
+
+    <footer class="block foot">
+      <h2>Risikoregeln</h2>
+      <ul class="rules">
+        <li>2 % pro Trade</li>
+        <li>max. 3 Positionen</li>
+        <li>4 % Gesamtrisiko</li>
+        <li id="rule-stop">−5 % Tagesstopp</li>
+        <li>Schicht werktags 08–20 Uhr</li>
+      </ul>
+      <p class="disclaimer">Demokonto · keine Anlageberatung</p>
+    </footer>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
