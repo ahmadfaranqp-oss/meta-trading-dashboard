@@ -1,256 +1,264 @@
 {
-  "stand": "2026-10-27T12:06:00+01:00",
-  "startKonto": 4528.13,
-  "tagesstart": 4589.49,
-  "balance": 4589.49,
-  "equity": 4604.43,
-  "margin": 454.55,
-  "tageszielProzent": 3,
-  "tagesstoppProzent": 5,
-  "heuteErgebnis": 14.94,
-  "offenePositionen": [
-    {
-      "symbol": "EURUSD",
-      "richtung": "short",
-      "lot": 0.15,
-      "einstieg": 1.11577,
-      "sl": 1.117,
-      "tp": 1.1095,
-      "aktuell": 1.11466,
-      "ergebnisEur": 14.94,
-      "kontoBeiEinstieg": 4589.49,
-      "eroeffnet": "2026-10-27T08:15:02+01:00",
-      "ticket": "59060141422",
-      "risikoEur": 14.0
-    }
-  ],
-  "pendingOrders": [],
-  "historie": [
-    {
-      "datum": "2026-10-26T20:05:00+01:00",
-      "symbol": "XAUUSD",
-      "richtung": "short",
-      "lot": 0.05,
-      "einstieg": 4024,
-      "ausstieg": 4010.28,
-      "ergebnisEur": 61.36,
-      "kontoBeiEinstieg": 4528.13
-    }
-  ],
-  "equityKurve": [
-    {
-      "zeit": "2026-10-26T13:42:00+01:00",
-      "equity": 4528.13
-    },
-    {
-      "zeit": "2026-10-26T14:10:00+01:00",
-      "equity": 4528.13
-    },
-    {
-      "zeit": "2026-10-26T14:35:00+01:00",
-      "equity": 4528.13
-    },
-    {
-      "zeit": "2026-10-26T15:07:00+01:00",
-      "equity": 4528.13
-    },
-    {
-      "zeit": "2026-10-26T15:44:00+01:00",
-      "equity": 4528.13
-    },
-    {
-      "zeit": "2026-10-26T16:12:00+01:00",
-      "equity": 4535.78
-    },
-    {
-      "zeit": "2026-10-26T16:50:00+01:00",
-      "equity": 4555
-    },
-    {
-      "zeit": "2026-10-26T17:05:00+01:00",
-      "equity": 4552
-    },
-    {
-      "zeit": "2026-10-26T17:42:00+01:00",
-      "equity": 4550.04
-    },
-    {
-      "zeit": "2026-10-26T18:13:00+01:00",
-      "equity": 4512.71
-    },
-    {
-      "zeit": "2026-10-26T18:35:00+01:00",
-      "equity": 4526.43
-    },
-    {
-      "zeit": "2026-10-26T19:15:00+01:00",
-      "equity": 4544.57
-    },
-    {
-      "zeit": "2026-10-26T19:40:00+01:00",
-      "equity": 4569.35
-    },
-    {
-      "zeit": "2026-10-26T20:05:00+01:00",
-      "equity": 4589.49
-    },
-    {
-      "zeit": "2026-10-27T05:18:00+01:00",
-      "equity": 4589.49
-    },
-    {
-      "zeit": "2026-10-27T05:46:00+01:00",
-      "equity": 4589.49
-    },
-    {
-      "zeit": "2026-10-27T06:12:00+01:00",
-      "equity": 4589.49
-    },
-    {
-      "zeit": "2026-10-27T06:42:00+01:00",
-      "equity": 4589.49
-    },
-    {
-      "zeit": "2026-10-27T07:20:00+01:00",
-      "equity": 4589.49
-    },
-    {
-      "zeit": "2026-10-27T07:44:00+01:00",
-      "equity": 4589.49
-    },
-    {
-      "zeit": "2026-10-27T08:15:00+01:00",
-      "equity": 4590.16
-    },
-    {
-      "zeit": "2026-10-27T08:30:00+01:00",
-      "equity": 4581.16
-    },
-    {
-      "zeit": "2026-10-27T09:00:00+01:00",
-      "equity": 4586.53
-    },
-    {
-      "zeit": "2026-10-27T09:35:00+01:00",
-      "equity": 4591.6
-    },
-    {
-      "zeit": "2026-10-27T10:05:00+01:00",
-      "equity": 4595.7
-    },
-    {
-      "zeit": "2026-10-27T10:37:00+01:00",
-      "equity": 4614.54
-    },
-    {
-      "zeit": "2026-10-27T11:05:00+01:00",
-      "equity": 4611.44
-    },
-    {
-      "zeit": "2026-10-27T11:40:00+01:00",
-      "equity": 4607.8
-    },
-    {
-      "zeit": "2026-10-27T12:06:00+01:00",
-      "equity": 4604.43
-    }
-  ],
-  "feed": [
-    {
-      "zeit": "2026-10-26T14:10:00+01:00",
-      "text": "Kein Trade. Kein klares Setup mit Chance-Risiko ab 1,5:1."
-    },
-    {
-      "zeit": "2026-10-26T14:40:00+01:00",
-      "text": "Sell Limit XAUUSD 0,05 bei 4.024, SL 4.040, TP 3.985 platziert. Ticket 59048718202."
-    },
-    {
-      "zeit": "2026-10-26T15:12:00+01:00",
-      "text": "Buy Limit AUDUSD 0,45 bei 0,70030, SL 0,69900, TP 0,70350 platziert. Ticket 59049673728."
-    },
-    {
-      "zeit": "2026-10-26T15:57:00+01:00",
-      "text": "XAUUSD Sell 0,05 bei 4.024 ausgelöst. Ticket 59048718202, SL 4.040, TP 3.985."
-    },
-    {
-      "zeit": "2026-10-26T16:45:00+01:00",
-      "text": "AUDUSD Buy Limit 59049673728 gelöscht. Geschätzte Margin mit Gold zusammen etwa 32 %, über dem Limit von 15 %."
-    },
-    {
-      "zeit": "2026-10-26T18:13:00+01:00",
-      "text": "Gold-Short −15,42 € bei Kurs 4.026,94. SL bleibt 4.040. Kein neuer Trade, Margin-Budget belegt."
-    },
-    {
-      "zeit": "2026-10-26T19:40:00+01:00",
-      "text": "Gold-Short +41,22 € bei Kurs 4.014,70. Keine neuen Trades (Sperre ab 19:30). Position läuft mit SL/TP."
-    },
-    {
-      "zeit": "2026-10-26T20:05:00+01:00",
-      "text": "Tagesabschluss: XAUUSD Short bei 4.010,28 geschlossen, +61,36 €. Endstand 4.589,49 €."
-    },
-    {
-      "zeit": "2026-10-27T05:25:00+01:00",
-      "text": "Sell Limit XAUUSD 0,05 bei 4.033, SL 4.045, TP 4.005 platziert. Ticket 59058125381, gültig bis 12:00, Risiko ca. 54 €."
-    },
-    {
-      "zeit": "2026-10-27T05:46:00+01:00",
-      "text": "Order 59058125381 weiter offen. Kein neuer Trade. Gold unter dem Tageshoch, JPY und AUD ohne Signal."
-    },
-    {
-      "zeit": "2026-10-27T06:12:00+01:00",
-      "text": "Order 59058125381 weiter offen. Gold 4.007,64, Limit 4.033 bleibt bis 12:00 liegen. Kein neuer Trade."
-    },
-    {
-      "zeit": "2026-10-27T06:42:00+01:00",
-      "text": "Order 59058125381 weiter offen. Gold 4.006,90 knapp über 4.000, kein sauberes Setup. Kein neuer Trade."
-    },
-    {
-      "zeit": "2026-10-27T07:20:00+01:00",
-      "text": "Order 59058125381 weiter offen. Gold 4.005,50 direkt über 4.000, kein sauberes Setup. Kein neuer Trade."
-    },
-    {
-      "zeit": "2026-10-27T07:44:00+01:00",
-      "text": "Order 59058125381 weiter offen. Gold testet 4.000, Indizes noch gesperrt. Kein neuer Trade, Frühschicht beendet."
-    },
-    {
-      "zeit": "2026-10-27T08:10:00+01:00",
-      "text": "Gold-Order 59058125381 gelöscht: Gold bei 4.001 weit unter dem Limit 4.033, Margin für EURUSD frei gemacht."
-    },
-    {
-      "zeit": "2026-10-27T08:15:00+01:00",
-      "text": "EURUSD Short 0,15 bei 1,11577 eröffnet, SL 1,11850, TP 1,10950. Ticket 59060141422, Risiko ca. 37 €, CRV 2,3:1. Grund: H1-Abwärtstrend, fester Dollar vor FOMC."
-    },
-    {
-      "zeit": "2026-10-27T08:30:00+01:00",
-      "text": "EURUSD Short bei 1,11639, −8,33 €. Abwärtstrend intakt, SL 1,11850 bleibt. Kein neuer Trade, Gold auf 4.000-Support ohne Signal, Indizes noch gesperrt."
-    },
-    {
-      "zeit": "2026-10-27T09:00:00+01:00",
-      "text": "EURUSD Short bei 1,11599, −2,96 €. Trend intakt, SL bleibt. Kein neuer Trade: Gold nur knapp unter 4.000 ohne bestätigten Bruch, DE40 weiter gesperrt."
-    },
-    {
-      "zeit": "2026-10-27T09:35:00+01:00",
-      "text": "EURUSD Short bei 1,11560, +2,11 €. Abwärtstrend intakt, SL bleibt 1,11850. Kein neuer Trade: Gold knapp unter 4.000 ohne bestätigten Bruch, Indizes weiter gesperrt."
-    },
-    {
-      "zeit": "2026-10-27T10:05:00+01:00",
-      "text": "EURUSD Short bei 1,11531, +6,21 €. Abwärtstrend intakt, SL bleibt 1,11850. Kein neuer Trade: Gold knapp unter 4.000, aber kein H1-Schluss unter 3.995; Indizes weiter gesperrt."
-    },
-    {
-      "zeit": "2026-10-27T10:37:00+01:00",
-      "text": "EURUSD Short bei 1,11391, +25,05 €. SL von 1,11850 auf 1,11700 nachgezogen, Risiko jetzt ca. 14 €. Kein neuer Trade: Gold-Bruch unter 4.000 weiter unbestätigt, Indizes gesperrt."
-    },
-    {
-      "zeit": "2026-10-27T11:05:00+01:00",
-      "text": "EURUSD Short bei 1,11411, +21,95 €. Trend intakt, SL bleibt 1,11700. Kein neuer Trade: Gold wieder über 4.000 ohne Signal, Indizes gesperrt."
-    },
-    {
-      "zeit": "2026-10-27T11:40:00+01:00",
-      "text": "EURUSD Short bei 1,11441, +18,31 €. Konsolidierung über Tagestief 1,1135, SL bleibt 1,11700. Gold zurück über 4.000 ohne Signal, Dollar fest vor Fed – kein neuer Trade."
-    },
-    {
-      "zeit": "2026-10-27T12:06:00+01:00",
-      "text": "EURUSD Short bei 1,11466, +14,94 €. Seitwärts über Tagestief 1,1137, SL bleibt 1,11700. Gold 4.011 mitten in der Range, Indizes gesperrt – kein neuer Trade."
-    }
-  ]
+ "stand": "2026-10-27T12:40:00+01:00",
+ "startKonto": 4528.13,
+ "tagesstart": 4589.49,
+ "balance": 4589.49,
+ "equity": 4608.3,
+ "margin": 454.55,
+ "tageszielProzent": 3,
+ "tagesstoppProzent": 5,
+ "heuteErgebnis": 18.81,
+ "offenePositionen": [
+  {
+   "symbol": "EURUSD",
+   "richtung": "short",
+   "lot": 0.15,
+   "einstieg": 1.11577,
+   "sl": 1.117,
+   "tp": 1.1095,
+   "aktuell": 1.1144,
+   "ergebnisEur": 18.81,
+   "kontoBeiEinstieg": 4589.49,
+   "eroeffnet": "2026-10-27T08:15:02+01:00",
+   "ticket": "59060141422",
+   "risikoEur": 14.0
+  }
+ ],
+ "pendingOrders": [],
+ "historie": [
+  {
+   "datum": "2026-10-26T20:05:00+01:00",
+   "symbol": "XAUUSD",
+   "richtung": "short",
+   "lot": 0.05,
+   "einstieg": 4024,
+   "ausstieg": 4010.28,
+   "ergebnisEur": 61.36,
+   "kontoBeiEinstieg": 4528.13
+  }
+ ],
+ "equityKurve": [
+  {
+   "zeit": "2026-10-26T13:42:00+01:00",
+   "equity": 4528.13
+  },
+  {
+   "zeit": "2026-10-26T14:10:00+01:00",
+   "equity": 4528.13
+  },
+  {
+   "zeit": "2026-10-26T14:35:00+01:00",
+   "equity": 4528.13
+  },
+  {
+   "zeit": "2026-10-26T15:07:00+01:00",
+   "equity": 4528.13
+  },
+  {
+   "zeit": "2026-10-26T15:44:00+01:00",
+   "equity": 4528.13
+  },
+  {
+   "zeit": "2026-10-26T16:12:00+01:00",
+   "equity": 4535.78
+  },
+  {
+   "zeit": "2026-10-26T16:50:00+01:00",
+   "equity": 4555
+  },
+  {
+   "zeit": "2026-10-26T17:05:00+01:00",
+   "equity": 4552
+  },
+  {
+   "zeit": "2026-10-26T17:42:00+01:00",
+   "equity": 4550.04
+  },
+  {
+   "zeit": "2026-10-26T18:13:00+01:00",
+   "equity": 4512.71
+  },
+  {
+   "zeit": "2026-10-26T18:35:00+01:00",
+   "equity": 4526.43
+  },
+  {
+   "zeit": "2026-10-26T19:15:00+01:00",
+   "equity": 4544.57
+  },
+  {
+   "zeit": "2026-10-26T19:40:00+01:00",
+   "equity": 4569.35
+  },
+  {
+   "zeit": "2026-10-26T20:05:00+01:00",
+   "equity": 4589.49
+  },
+  {
+   "zeit": "2026-10-27T05:18:00+01:00",
+   "equity": 4589.49
+  },
+  {
+   "zeit": "2026-10-27T05:46:00+01:00",
+   "equity": 4589.49
+  },
+  {
+   "zeit": "2026-10-27T06:12:00+01:00",
+   "equity": 4589.49
+  },
+  {
+   "zeit": "2026-10-27T06:42:00+01:00",
+   "equity": 4589.49
+  },
+  {
+   "zeit": "2026-10-27T07:20:00+01:00",
+   "equity": 4589.49
+  },
+  {
+   "zeit": "2026-10-27T07:44:00+01:00",
+   "equity": 4589.49
+  },
+  {
+   "zeit": "2026-10-27T08:15:00+01:00",
+   "equity": 4590.16
+  },
+  {
+   "zeit": "2026-10-27T08:30:00+01:00",
+   "equity": 4581.16
+  },
+  {
+   "zeit": "2026-10-27T09:00:00+01:00",
+   "equity": 4586.53
+  },
+  {
+   "zeit": "2026-10-27T09:35:00+01:00",
+   "equity": 4591.6
+  },
+  {
+   "zeit": "2026-10-27T10:05:00+01:00",
+   "equity": 4595.7
+  },
+  {
+   "zeit": "2026-10-27T10:37:00+01:00",
+   "equity": 4614.54
+  },
+  {
+   "zeit": "2026-10-27T11:05:00+01:00",
+   "equity": 4611.44
+  },
+  {
+   "zeit": "2026-10-27T11:40:00+01:00",
+   "equity": 4607.8
+  },
+  {
+   "zeit": "2026-10-27T12:06:00+01:00",
+   "equity": 4604.43
+  },
+  {
+   "zeit": "2026-10-27T12:40:00+01:00",
+   "equity": 4608.3
+  }
+ ],
+ "feed": [
+  {
+   "zeit": "2026-10-26T14:10:00+01:00",
+   "text": "Kein Trade. Kein klares Setup mit Chance-Risiko ab 1,5:1."
+  },
+  {
+   "zeit": "2026-10-26T14:40:00+01:00",
+   "text": "Sell Limit XAUUSD 0,05 bei 4.024, SL 4.040, TP 3.985 platziert. Ticket 59048718202."
+  },
+  {
+   "zeit": "2026-10-26T15:12:00+01:00",
+   "text": "Buy Limit AUDUSD 0,45 bei 0,70030, SL 0,69900, TP 0,70350 platziert. Ticket 59049673728."
+  },
+  {
+   "zeit": "2026-10-26T15:57:00+01:00",
+   "text": "XAUUSD Sell 0,05 bei 4.024 ausgelöst. Ticket 59048718202, SL 4.040, TP 3.985."
+  },
+  {
+   "zeit": "2026-10-26T16:45:00+01:00",
+   "text": "AUDUSD Buy Limit 59049673728 gelöscht. Geschätzte Margin mit Gold zusammen etwa 32 %, über dem Limit von 15 %."
+  },
+  {
+   "zeit": "2026-10-26T18:13:00+01:00",
+   "text": "Gold-Short −15,42 € bei Kurs 4.026,94. SL bleibt 4.040. Kein neuer Trade, Margin-Budget belegt."
+  },
+  {
+   "zeit": "2026-10-26T19:40:00+01:00",
+   "text": "Gold-Short +41,22 € bei Kurs 4.014,70. Keine neuen Trades (Sperre ab 19:30). Position läuft mit SL/TP."
+  },
+  {
+   "zeit": "2026-10-26T20:05:00+01:00",
+   "text": "Tagesabschluss: XAUUSD Short bei 4.010,28 geschlossen, +61,36 €. Endstand 4.589,49 €."
+  },
+  {
+   "zeit": "2026-10-27T05:25:00+01:00",
+   "text": "Sell Limit XAUUSD 0,05 bei 4.033, SL 4.045, TP 4.005 platziert. Ticket 59058125381, gültig bis 12:00, Risiko ca. 54 €."
+  },
+  {
+   "zeit": "2026-10-27T05:46:00+01:00",
+   "text": "Order 59058125381 weiter offen. Kein neuer Trade. Gold unter dem Tageshoch, JPY und AUD ohne Signal."
+  },
+  {
+   "zeit": "2026-10-27T06:12:00+01:00",
+   "text": "Order 59058125381 weiter offen. Gold 4.007,64, Limit 4.033 bleibt bis 12:00 liegen. Kein neuer Trade."
+  },
+  {
+   "zeit": "2026-10-27T06:42:00+01:00",
+   "text": "Order 59058125381 weiter offen. Gold 4.006,90 knapp über 4.000, kein sauberes Setup. Kein neuer Trade."
+  },
+  {
+   "zeit": "2026-10-27T07:20:00+01:00",
+   "text": "Order 59058125381 weiter offen. Gold 4.005,50 direkt über 4.000, kein sauberes Setup. Kein neuer Trade."
+  },
+  {
+   "zeit": "2026-10-27T07:44:00+01:00",
+   "text": "Order 59058125381 weiter offen. Gold testet 4.000, Indizes noch gesperrt. Kein neuer Trade, Frühschicht beendet."
+  },
+  {
+   "zeit": "2026-10-27T08:10:00+01:00",
+   "text": "Gold-Order 59058125381 gelöscht: Gold bei 4.001 weit unter dem Limit 4.033, Margin für EURUSD frei gemacht."
+  },
+  {
+   "zeit": "2026-10-27T08:15:00+01:00",
+   "text": "EURUSD Short 0,15 bei 1,11577 eröffnet, SL 1,11850, TP 1,10950. Ticket 59060141422, Risiko ca. 37 €, CRV 2,3:1. Grund: H1-Abwärtstrend, fester Dollar vor FOMC."
+  },
+  {
+   "zeit": "2026-10-27T08:30:00+01:00",
+   "text": "EURUSD Short bei 1,11639, −8,33 €. Abwärtstrend intakt, SL 1,11850 bleibt. Kein neuer Trade, Gold auf 4.000-Support ohne Signal, Indizes noch gesperrt."
+  },
+  {
+   "zeit": "2026-10-27T09:00:00+01:00",
+   "text": "EURUSD Short bei 1,11599, −2,96 €. Trend intakt, SL bleibt. Kein neuer Trade: Gold nur knapp unter 4.000 ohne bestätigten Bruch, DE40 weiter gesperrt."
+  },
+  {
+   "zeit": "2026-10-27T09:35:00+01:00",
+   "text": "EURUSD Short bei 1,11560, +2,11 €. Abwärtstrend intakt, SL bleibt 1,11850. Kein neuer Trade: Gold knapp unter 4.000 ohne bestätigten Bruch, Indizes weiter gesperrt."
+  },
+  {
+   "zeit": "2026-10-27T10:05:00+01:00",
+   "text": "EURUSD Short bei 1,11531, +6,21 €. Abwärtstrend intakt, SL bleibt 1,11850. Kein neuer Trade: Gold knapp unter 4.000, aber kein H1-Schluss unter 3.995; Indizes weiter gesperrt."
+  },
+  {
+   "zeit": "2026-10-27T10:37:00+01:00",
+   "text": "EURUSD Short bei 1,11391, +25,05 €. SL von 1,11850 auf 1,11700 nachgezogen, Risiko jetzt ca. 14 €. Kein neuer Trade: Gold-Bruch unter 4.000 weiter unbestätigt, Indizes gesperrt."
+  },
+  {
+   "zeit": "2026-10-27T11:05:00+01:00",
+   "text": "EURUSD Short bei 1,11411, +21,95 €. Trend intakt, SL bleibt 1,11700. Kein neuer Trade: Gold wieder über 4.000 ohne Signal, Indizes gesperrt."
+  },
+  {
+   "zeit": "2026-10-27T11:40:00+01:00",
+   "text": "EURUSD Short bei 1,11441, +18,31 €. Konsolidierung über Tagestief 1,1135, SL bleibt 1,11700. Gold zurück über 4.000 ohne Signal, Dollar fest vor Fed – kein neuer Trade."
+  },
+  {
+   "zeit": "2026-10-27T12:06:00+01:00",
+   "text": "EURUSD Short bei 1,11466, +14,94 €. Seitwärts über Tagestief 1,1137, SL bleibt 1,11700. Gold 4.011 mitten in der Range, Indizes gesperrt – kein neuer Trade."
+  },
+  {
+   "zeit": "2026-10-27T12:40:00+01:00",
+   "text": "EURUSD Short läuft (+18,8 EUR), SL 1,11700 bleibt. Kein neuer Trade: kein Setup mit CRV ab 1,5, US-Auftragseingänge um 13:30."
+  }
+ ]
 }
