@@ -1,13 +1,13 @@
 {
- "stand": "2026-10-27T14:40:00+01:00",
+ "stand": "2026-10-27T15:15:00+01:00",
  "startKonto": 4528.13,
  "tagesstart": 4589.49,
  "balance": 4589.49,
- "equity": 4609.5,
+ "equity": 4598.5,
  "margin": 454.55,
  "tageszielProzent": 3,
  "tagesstoppProzent": 5,
- "heuteErgebnis": 20.0,
+ "heuteErgebnis": 9.01,
  "offenePositionen": [
   {
    "symbol": "EURUSD",
@@ -16,8 +16,8 @@
    "einstieg": 1.11577,
    "sl": 1.117,
    "tp": 1.1095,
-   "aktuell": 1.11437,
-   "ergebnisEur": 20.0,
+   "aktuell": 1.1151,
+   "ergebnisEur": 9.01,
    "kontoBeiEinstieg": 4589.49,
    "eroeffnet": "2026-10-27T08:15:02+01:00",
    "ticket": "59060141422",
@@ -173,6 +173,10 @@
   {
    "zeit": "2026-10-27T14:40:00+01:00",
    "equity": 4609.5
+  },
+  {
+   "zeit": "2026-10-27T15:15:00+01:00",
+   "equity": 4598.5
   }
  ],
  "feed": [
@@ -291,6 +295,10 @@
   {
    "zeit": "2026-10-27T14:40:00+01:00",
    "text": "EURUSD Short läuft (+20 EUR) bei 1,1144, SL 1,11700 bleibt. Gold steigt auf 4.028 ohne Ablehnung. Kein neuer Trade: US-Verbrauchervertrauen um 15:00, Indizes gesperrt."
+  },
+  {
+   "zeit": "2026-10-27T15:15:00+01:00",
+   "text": "Kein neuer Trade. EURUSD-Short läuft (+9 €), starke US-Verbraucherstimmung stützt den Dollar. Gold über 4.035 – Long erst nach bestätigtem Ausbruch mit Retest."
   }
  ]
 }
