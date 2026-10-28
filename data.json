@@ -1,13 +1,13 @@
 {
- "stand": "2026-10-28T10:18:00+01:00",
+ "stand": "2026-10-28T10:46:00+01:00",
  "startKonto": 4528.13,
  "tagesstart": 4589.49,
  "balance": 4626.82,
- "equity": 4833.67,
+ "equity": 4842.2,
  "margin": 1098.58,
  "tageszielProzent": 3,
  "tagesstoppProzent": 5,
- "heuteErgebnis": 244.18,
+ "heuteErgebnis": 252.71,
  "offenePositionen": [
   {
    "symbol": "XAUUSD",
@@ -16,8 +16,8 @@
    "einstieg": 4030.9,
    "sl": 4040.0,
    "tp": 4070.0,
-   "aktuell": 4053.91,
-   "ergebnisEur": 206.85,
+   "aktuell": 4054.87,
+   "ergebnisEur": 215.38,
    "kontoBeiEinstieg": 4626.82,
    "eroeffnet": "2026-10-28T07:12:35+01:00",
    "ticket": "59075661658",
@@ -238,6 +238,10 @@
   {
    "zeit": "2026-10-28T10:18:00+01:00",
    "equity": 4833.67
+  },
+  {
+   "zeit": "2026-10-28T10:46:00+01:00",
+   "equity": 4842.2
   }
  ],
  "feed": [
@@ -276,6 +280,10 @@
   {
    "zeit": "2026-10-28T10:18:00+01:00",
    "text": "Kein neuer Trade – Tagesziel bleibt erreicht (+244 €, +5,3 %). Gold-Long läuft bei 4.054 (+207 €), SL 4.040 sichert ca. +82 €, TP 4.070. Über 4.060 ziehe ich den SL auf 4.050 nach."
+  },
+  {
+   "zeit": "2026-10-28T10:46:00+01:00",
+   "text": "Kein neuer Trade – Tagesziel bleibt erreicht (+253 €, +5,5 %). Gold-Long läuft bei 4.055 (+215 €), SL 4.040 sichert ca. +82 €, TP 4.070. Über 4.060 ziehe ich den SL auf 4.050 nach."
   }
  ]
 }
