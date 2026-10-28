@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-28T16:20:00+01:00",
+ "stand": "2026-10-28T16:45:00+01:00",
  "startKonto": 4528.13,
  "tagesstart": 4589.49,
  "balance": 4948.43,
@@ -302,6 +302,10 @@
   {
    "zeit": "2026-10-28T16:20:00+01:00",
    "equity": 4948.43
+  },
+  {
+   "zeit": "2026-10-28T16:45:00+01:00",
+   "equity": 4948.43
   }
  ],
  "feed": [
@@ -336,6 +340,10 @@
   {
    "zeit": "2026-10-28T16:20:00+01:00",
    "text": "Kein neuer Trade. Konto flat bei 4.948,43 €, Tagesgewinn +358,94 € (+7,8 %) bleibt gesichert. Märkte warten auf die FOMC-Entscheidung um 19:00 – kein A+-Setup."
+  },
+  {
+   "zeit": "2026-10-28T16:45:00+01:00",
+   "text": "Kein neuer Trade. Konto flat bei 4.948,43 €, Tagesgewinn +358,94 € (+7,8 %) bleibt gesichert. Gold pendelt in der Range um 4.046, US500 nahe Range-Top – ich warte die FOMC-Entscheidung um 19:00 ab."
   }
  ]
 }
