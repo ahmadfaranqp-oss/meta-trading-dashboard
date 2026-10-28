@@ -1,47 +1,52 @@
 {
- "stand": "2026-10-27T18:38:00+01:00",
+ "stand": "2026-10-28T09:12:00+01:00",
  "startKonto": 4528.13,
  "tagesstart": 4589.49,
- "balance": 4589.49,
- "equity": 4614.67,
- "margin": 454.55,
+ "balance": 4626.82,
+ "equity": 4763.65,
+ "margin": 1098.58,
  "tageszielProzent": 3,
  "tagesstoppProzent": 5,
- "heuteErgebnis": 25.18,
+ "heuteErgebnis": 174.16,
  "offenePositionen": [
   {
+   "symbol": "XAUUSD",
+   "richtung": "long",
+   "lot": 0.1,
+   "einstieg": 4030.9,
+   "sl": null,
+   "tp": null,
+   "aktuell": 4046.12,
+   "ergebnisEur": 136.83,
+   "kontoBeiEinstieg": 4626.82,
+   "eroeffnet": "2026-10-28T07:12:35+01:00",
+   "ticket": "59075661658",
+   "risikoEur": null,
+   "info": "Nicht von Meta eröffnet, ohne SL/TP – Klärung mit Faran"
+  }
+ ],
+ "pendingOrders": [],
+ "historie": [
+  {
+   "datum": "2026-10-28T07:12:26+01:00",
    "symbol": "EURUSD",
    "richtung": "short",
    "lot": 0.15,
    "einstieg": 1.11577,
-   "sl": 1.117,
-   "tp": 1.1095,
-   "aktuell": 1.1139,
-   "ergebnisEur": 25.18,
-   "kontoBeiEinstieg": 4589.49,
-   "eroeffnet": "2026-10-27T08:15:02+01:00",
-   "ticket": "59060141422",
-   "risikoEur": 14.0
-  }
- ],
- "pendingOrders": [
+   "ausstieg": 1.11188,
+   "ergebnisEur": 52.48,
+   "kontoBeiEinstieg": 4589.49
+  },
   {
+   "datum": "2026-10-28T07:12:26+01:00",
    "symbol": "XAUUSD",
    "richtung": "long",
    "lot": 0.02,
    "einstieg": 4038.0,
-   "sl": 4022.0,
-   "tp": 4070.0,
-   "aktuell": 4064.14,
-   "ergebnisEur": 0,
-   "kontoBeiEinstieg": 4589.49,
-   "eroeffnet": "2026-10-27T16:10:45+01:00",
-   "ticket": "59069406255",
-   "risikoEur": 28.7,
-   "typ": "buy limit"
-  }
- ],
- "historie": [
+   "ausstieg": 4029.65,
+   "ergebnisEur": -15.02,
+   "kontoBeiEinstieg": 4589.49
+  },
   {
    "datum": "2026-10-26T20:05:00+01:00",
    "symbol": "XAUUSD",
@@ -221,21 +226,13 @@
   {
    "zeit": "2026-10-27T18:38:00+01:00",
    "equity": 4614.67
+  },
+  {
+   "zeit": "2026-10-28T09:12:00+01:00",
+   "equity": 4763.65
   }
  ],
  "feed": [
-  {
-   "zeit": "2026-10-27T14:15:00+01:00",
-   "text": "EURUSD Short läuft (+10 EUR), SL 1,11700 bleibt. Gold testet 4.032, aber ohne bärischen Schluss. Kein neuer Trade: US-Verbrauchervertrauen um 15:00, Indizes gesperrt."
-  },
-  {
-   "zeit": "2026-10-27T14:40:00+01:00",
-   "text": "EURUSD Short läuft (+20 EUR) bei 1,1144, SL 1,11700 bleibt. Gold steigt auf 4.028 ohne Ablehnung. Kein neuer Trade: US-Verbrauchervertrauen um 15:00, Indizes gesperrt."
-  },
-  {
-   "zeit": "2026-10-27T15:15:00+01:00",
-   "text": "Kein neuer Trade. EURUSD-Short läuft (+9 €), starke US-Verbraucherstimmung stützt den Dollar. Gold über 4.035 – Long erst nach bestätigtem Ausbruch mit Retest."
-  },
   {
    "zeit": "2026-10-27T15:37:00+01:00",
    "text": "Kein neuer Trade. EURUSD-Short läuft (+12,65 €), SL 1,11700 bleibt. Gold springt auf 4.047 – Long erst nach H1-Schluss über 4.040 und Rücksetzer, nicht mitten im Impuls."
@@ -263,6 +260,10 @@
   {
    "zeit": "2026-10-27T18:38:00+01:00",
    "text": "Kein neuer Trade. EURUSD-Short läuft (+25,18 €) bei 1,1139, SL 1,11700 bleibt. Gold markiert ein neues Tageshoch bei 4.064 – das Buy Limit bei 4.038 wartet weiter auf den Rücksetzer, kein Nachjagen."
+  },
+  {
+   "zeit": "2026-10-28T09:12:00+01:00",
+   "text": "Ungewöhnlich: Über Nacht wurden EURUSD-Short (+52,48 €) und der ausgelöste Gold-Limit (−15,02 €) geschlossen und ein Gold-Long 0,10 ohne SL/TP eröffnet – nicht von mir. Ich fasse ihn nicht an und mache vorerst keinen neuen Trade (Margin 23 %), bis Faran das klärt. FOMC heute 19:00."
   }
  ]
 }
