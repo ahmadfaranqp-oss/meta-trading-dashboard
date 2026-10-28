@@ -1,32 +1,26 @@
 {
- "stand": "2026-10-28T15:21:00+01:00",
+ "stand": "2026-10-28T15:46:00+01:00",
  "startKonto": 4528.13,
  "tagesstart": 4589.49,
- "balance": 4819.29,
- "equity": 4870.24,
- "margin": 3306.01,
+ "balance": 4948.43,
+ "equity": 4948.43,
+ "margin": 0,
  "tageszielProzent": 3,
  "tagesstoppProzent": 5,
- "heuteErgebnis": 280.75,
- "offenePositionen": [
+ "heuteErgebnis": 358.94,
+ "offenePositionen": [],
+ "pendingOrders": [],
+ "historie": [
   {
+   "datum": "2026-10-28T15:23:32+01:00",
    "symbol": "XAUUSD",
    "richtung": "short",
    "lot": 0.3,
    "einstieg": 4049.88,
-   "sl": null,
-   "tp": null,
-   "aktuell": 4046.28,
-   "ergebnisEur": 50.95,
-   "kontoBeiEinstieg": 4819.29,
-   "eroeffnet": "2026-10-28T14:46:56+01:00",
-   "ticket": "59080051558",
-   "risikoEur": 0,
-   "info": "Nicht von Meta eröffnet, ohne SL/TP – wartet auf Klärung"
-  }
- ],
- "pendingOrders": [],
- "historie": [
+   "ausstieg": 4045.09,
+   "ergebnisEur": 129.14,
+   "kontoBeiEinstieg": 4819.29
+  },
   {
    "datum": "2026-10-28T14:46:52+01:00",
    "symbol": "XAUUSD",
@@ -300,21 +294,13 @@
   {
    "zeit": "2026-10-28T15:21:00+01:00",
    "equity": 4870.24
+  },
+  {
+   "zeit": "2026-10-28T15:46:00+01:00",
+   "equity": 4948.43
   }
  ],
  "feed": [
-  {
-   "zeit": "2026-10-27T17:08:00+01:00",
-   "text": "Kein neuer Trade. Gold steht am Tageshoch bei 4.060 – das Buy Limit bei 4.038 wartet weiter auf den Rücksetzer. EURUSD-Short läuft (+18,8 €), SL 1,11700 bleibt. Lagarde um 18:00."
-  },
-  {
-   "zeit": "2026-10-27T17:40:00+01:00",
-   "text": "Kein neuer Trade. Gold pausiert am Tageshoch bei 4.060 – das Buy Limit bei 4.038 wartet auf den Rücksetzer. EURUSD-Short läuft (+21,14 €), SL 1,11700 bleibt. Lagarde um 18:00."
-  },
-  {
-   "zeit": "2026-10-27T18:10:00+01:00",
-   "text": "Kein neuer Trade. EURUSD-Short läuft (+24,51 €) bei 1,1139, SL 1,11700 bleibt. Gold hält sich bei 4.060 unter dem Tageshoch – Buy Limit bei 4.038 wartet auf den Rücksetzer. Lagarde-Fenster für EUR bis 18:15."
-  },
   {
    "zeit": "2026-10-27T18:38:00+01:00",
    "text": "Kein neuer Trade. EURUSD-Short läuft (+25,18 €) bei 1,1139, SL 1,11700 bleibt. Gold markiert ein neues Tageshoch bei 4.064 – das Buy Limit bei 4.038 wartet weiter auf den Rücksetzer, kein Nachjagen."
@@ -342,6 +328,10 @@
   {
    "zeit": "2026-10-28T15:21:00+01:00",
    "text": "Tagesziel klar übertroffen: +281 € (+6,1 %). Gold-Long mit +150 € geschlossen (11:28). Ein Gold-Short 0,30 ohne SL/TP läuft (+51 €), nicht von mir eröffnet – Margin 68 %, daher kein neuer Trade bis zur Klärung. FOMC 19:00."
+  },
+  {
+   "zeit": "2026-10-28T15:46:00+01:00",
+   "text": "Gold-Short 0,30 (nicht von mir) mit +129 € geschlossen. Konto flat bei 4.948 €, heute +359 € (+7,8 %). Kein neuer Trade – Gewinn wird gesichert, FOMC um 19:00."
   }
  ]
 }
