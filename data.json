@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-02T17:45:00+01:00",
+  "stand": "2026-11-02T18:13:00+01:00",
   "startKonto": 4528.13,
   "tagesstart": 4948.43,
   "balance": 4948.43,
@@ -330,6 +330,10 @@
     {
       "zeit": "2026-11-02T17:45:00+01:00",
       "equity": 4948.43
+    },
+    {
+      "zeit": "2026-11-02T18:13:00+01:00",
+      "equity": 4948.43
     }
   ],
   "feed": [
@@ -380,6 +384,10 @@
     {
       "zeit": "2026-11-02T17:45:00+01:00",
       "text": "Kein Trade – Webterminal verbindet weiterhin nicht (Error 10), Kontodaten nicht lesbar. Werte zeigen den letzten bekannten Stand."
+    },
+    {
+      "zeit": "2026-11-02T18:13:00+01:00",
+      "text": "Kein Trade – Webterminal seit 13:41 ohne Verbindung (Error 10). Trading-Zyklen pausiert, bis das Konto neu verbunden ist."
     }
   ]
 }
