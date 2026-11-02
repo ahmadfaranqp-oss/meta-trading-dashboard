@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-02T14:46:00+01:00",
+  "stand": "2026-11-02T15:21:00+01:00",
   "startKonto": 4528.13,
   "tagesstart": 4948.43,
   "balance": 4948.43,
@@ -318,10 +318,6 @@
   ],
   "feed": [
     {
-      "zeit": "2026-10-28T09:43:00+01:00",
-      "text": "Tagesziel erreicht: +236 € (+5,1 %). Gold-Long läuft bei 4.053 (+199 €); SL auf 4.040 nachgezogen, damit mindestens ca. +82 € gesichert sind, TP 4.070. Keine neuen Trades mehr mit vollem Risiko."
-    },
-    {
       "zeit": "2026-10-28T10:18:00+01:00",
       "text": "Kein neuer Trade – Tagesziel bleibt erreicht (+244 €, +5,3 %). Gold-Long läuft bei 4.054 (+207 €), SL 4.040 sichert ca. +82 €, TP 4.070. Über 4.060 ziehe ich den SL auf 4.050 nach."
     },
@@ -348,6 +344,10 @@
     {
       "zeit": "2026-11-02T14:46:00+01:00",
       "text": "Kein Trade: Webterminal verbindet weiter nicht (Error 10), Kontodaten nicht lesbar. Letzter bekannter Stand 4.948,43 €."
+    },
+    {
+      "zeit": "2026-11-02T15:21:00+01:00",
+      "text": "Kein Trade – das Webterminal verbindet weiterhin nicht (Error 10), Kontodaten nicht lesbar. Kontostand zuletzt 4.948,43 €."
     }
   ]
 }
