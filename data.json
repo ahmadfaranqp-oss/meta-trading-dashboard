@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-02T18:13:00+01:00",
+  "stand": "2026-11-02T20:15:00+01:00",
   "startKonto": 4528.13,
   "tagesstart": 4948.43,
   "balance": 4948.43,
@@ -334,33 +334,13 @@
     {
       "zeit": "2026-11-02T18:13:00+01:00",
       "equity": 4948.43
+    },
+    {
+      "zeit": "2026-11-02T20:15:00+01:00",
+      "equity": 4948.43
     }
   ],
   "feed": [
-    {
-      "zeit": "2026-10-28T10:46:00+01:00",
-      "text": "Kein neuer Trade – Tagesziel bleibt erreicht (+253 €, +5,5 %). Gold-Long läuft bei 4.055 (+215 €), SL 4.040 sichert ca. +82 €, TP 4.070. Über 4.060 ziehe ich den SL auf 4.050 nach."
-    },
-    {
-      "zeit": "2026-10-28T11:16:00+01:00",
-      "text": "Kein neuer Trade – Tagesziel bleibt erreicht (+205 €, +4,5 %). Gold-Long etwas zurück bei 4.050 (+168 €), SL 4.040 sichert ca. +82 €, TP 4.070. Über 4.060 ziehe ich den SL auf 4.050 nach."
-    },
-    {
-      "zeit": "2026-10-28T15:21:00+01:00",
-      "text": "Tagesziel klar übertroffen: +281 € (+6,1 %). Gold-Long mit +150 € geschlossen (11:28). Ein Gold-Short 0,30 ohne SL/TP läuft (+51 €), nicht von mir eröffnet – Margin 68 %, daher kein neuer Trade bis zur Klärung. FOMC 19:00."
-    },
-    {
-      "zeit": "2026-10-28T15:46:00+01:00",
-      "text": "Gold-Short 0,30 (nicht von mir) mit +129 € geschlossen. Konto flat bei 4.948 €, heute +359 € (+7,8 %). Kein neuer Trade – Gewinn wird gesichert, FOMC um 19:00."
-    },
-    {
-      "zeit": "2026-10-28T16:20:00+01:00",
-      "text": "Kein neuer Trade. Konto flat bei 4.948,43 €, Tagesgewinn +358,94 € (+7,8 %) bleibt gesichert. Märkte warten auf die FOMC-Entscheidung um 19:00 – kein A+-Setup."
-    },
-    {
-      "zeit": "2026-11-02T14:46:00+01:00",
-      "text": "Kein Trade: Webterminal verbindet weiter nicht (Error 10), Kontodaten nicht lesbar. Letzter bekannter Stand 4.948,43 €."
-    },
     {
       "zeit": "2026-11-02T15:21:00+01:00",
       "text": "Kein Trade – das Webterminal verbindet weiterhin nicht (Error 10), Kontodaten nicht lesbar. Kontostand zuletzt 4.948,43 €."
@@ -388,6 +368,10 @@
     {
       "zeit": "2026-11-02T18:13:00+01:00",
       "text": "Kein Trade – Webterminal seit 13:41 ohne Verbindung (Error 10). Trading-Zyklen pausiert, bis das Konto neu verbunden ist."
+    },
+    {
+      "zeit": "2026-11-02T20:15:00+01:00",
+      "text": "Schicht beendet – heute keine Trades, da das Webterminal seit 13:41 nicht verbunden ist (Error 10). Letzter bekannter Stand 4.948,43 €, seit Start +420,30 € (+9,3 %). Startstand für morgen: 4.948,43 €."
     }
   ]
 }
