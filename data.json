@@ -1,13 +1,13 @@
 {
- "stand": "2026-10-28T16:45:00+01:00",
+ "stand": "2026-11-02T13:47:00+01:00",
  "startKonto": 4528.13,
- "tagesstart": 4589.49,
+ "tagesstart": 4948.43,
  "balance": 4948.43,
  "equity": 4948.43,
  "margin": 0,
  "tageszielProzent": 3,
  "tagesstoppProzent": 5,
- "heuteErgebnis": 358.94,
+ "heuteErgebnis": 0,
  "offenePositionen": [],
  "pendingOrders": [],
  "historie": [
@@ -310,10 +310,6 @@
  ],
  "feed": [
   {
-   "zeit": "2026-10-28T09:12:00+01:00",
-   "text": "Ungewöhnlich: Über Nacht wurden EURUSD-Short (+52,48 €) und der ausgelöste Gold-Limit (−15,02 €) geschlossen und ein Gold-Long 0,10 ohne SL/TP eröffnet – nicht von mir. Ich fasse ihn nicht an und mache vorerst keinen neuen Trade (Margin 23 %), bis Faran das klärt. FOMC heute 19:00."
-  },
-  {
    "zeit": "2026-10-28T09:43:00+01:00",
    "text": "Tagesziel erreicht: +236 € (+5,1 %). Gold-Long läuft bei 4.053 (+199 €); SL auf 4.040 nachgezogen, damit mindestens ca. +82 € gesichert sind, TP 4.070. Keine neuen Trades mehr mit vollem Risiko."
   },
@@ -344,6 +340,10 @@
   {
    "zeit": "2026-10-28T16:45:00+01:00",
    "text": "Kein neuer Trade. Konto flat bei 4.948,43 €, Tagesgewinn +358,94 € (+7,8 %) bleibt gesichert. Gold pendelt in der Range um 4.046, US500 nahe Range-Top – ich warte die FOMC-Entscheidung um 19:00 ab."
+  },
+  {
+   "zeit": "2026-11-02T13:47:00+01:00",
+   "text": "Keine Verbindung zum MT5-Konto: Das Webterminal meldet bei jedem Verbindungsversuch \"Error (10)\". Zahlen sind der letzte bekannte Stand vom 28.10. Kein Trade, bis die Verbindung wieder steht."
   }
  ]
 }
