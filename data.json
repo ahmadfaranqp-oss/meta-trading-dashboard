@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-02T13:47:00+01:00",
+ "stand": "2026-11-02T14:12:00+01:00",
  "startKonto": 4528.13,
  "tagesstart": 4948.43,
  "balance": 4948.43,
@@ -306,9 +306,17 @@
   {
    "zeit": "2026-10-28T16:45:00+01:00",
    "equity": 4948.43
+  },
+  {
+   "zeit": "2026-11-02T14:12:00+01:00",
+   "equity": 4948.43
   }
  ],
  "feed": [
+  {
+   "zeit": "2026-11-02T14:12:00+01:00",
+   "text": "Webterminal verbindet weiterhin nicht (Error 10) – kein Handel, Werte vom letzten bekannten Stand."
+  },
   {
    "zeit": "2026-10-28T09:43:00+01:00",
    "text": "Tagesziel erreicht: +236 € (+5,1 %). Gold-Long läuft bei 4.053 (+199 €); SL auf 4.040 nachgezogen, damit mindestens ca. +82 € gesichert sind, TP 4.070. Keine neuen Trades mehr mit vollem Risiko."
@@ -336,14 +344,6 @@
   {
    "zeit": "2026-10-28T16:20:00+01:00",
    "text": "Kein neuer Trade. Konto flat bei 4.948,43 €, Tagesgewinn +358,94 € (+7,8 %) bleibt gesichert. Märkte warten auf die FOMC-Entscheidung um 19:00 – kein A+-Setup."
-  },
-  {
-   "zeit": "2026-10-28T16:45:00+01:00",
-   "text": "Kein neuer Trade. Konto flat bei 4.948,43 €, Tagesgewinn +358,94 € (+7,8 %) bleibt gesichert. Gold pendelt in der Range um 4.046, US500 nahe Range-Top – ich warte die FOMC-Entscheidung um 19:00 ab."
-  },
-  {
-   "zeit": "2026-11-02T13:47:00+01:00",
-   "text": "Keine Verbindung zum MT5-Konto: Das Webterminal meldet bei jedem Verbindungsversuch \"Error (10)\". Zahlen sind der letzte bekannte Stand vom 28.10. Kein Trade, bis die Verbindung wieder steht."
   }
  ]
 }
