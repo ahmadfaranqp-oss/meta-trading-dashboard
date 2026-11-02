@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-02T15:47:00+01:00",
+  "stand": "2026-11-02T16:16:00+01:00",
   "startKonto": 4528.13,
   "tagesstart": 4948.43,
   "balance": 4948.43,
@@ -318,6 +318,10 @@
     {
       "zeit": "2026-11-02T15:47:00+01:00",
       "equity": 4948.43
+    },
+    {
+      "zeit": "2026-11-02T16:16:00+01:00",
+      "equity": 4948.43
     }
   ],
   "feed": [
@@ -352,6 +356,10 @@
     {
       "zeit": "2026-11-02T15:47:00+01:00",
       "text": "Kein Trade – das Webterminal verbindet weiterhin nicht (Error 10), Kontodaten nicht lesbar. Kontostand zuletzt 4.948,43 €."
+    },
+    {
+      "zeit": "2026-11-02T16:16:00+01:00",
+      "text": "Kein Trade – das Webterminal verbindet weiterhin nicht (Error 10), Kontodaten nicht lesbar. Der 16:01-Ausbruch wurde wegen der ISM-Daten ohnehin ausgesetzt. Kontostand zuletzt 4.948,43 €."
     }
   ]
 }
