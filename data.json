@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-03T19:13:00+01:00",
+  "stand": "2026-11-03T19:40:00+01:00",
   "startKonto": 4528.13,
   "tagesstart": 5064.54,
   "balance": 4897.46,
@@ -445,9 +445,17 @@
     {
       "zeit": "2026-11-03T19:13:00+01:00",
       "equity": 4897.46
+    },
+    {
+      "zeit": "2026-11-03T19:40:00+01:00",
+      "equity": 4897.46
     }
   ],
   "feed": [
+    {
+      "zeit": "2026-11-03T19:40:00+01:00",
+      "text": "19:40 – 19:30-Sperre aktiv: keine neuen Trades mehr heute, keine offenen Positionen oder Orders. Tagesergebnis −167,08 € (manueller Gold-Short im SL)."
+    },
     {
       "zeit": "2026-11-03T19:13:00+01:00",
       "text": "19:13 – Kein neuer Trade: USDCHF weiter im Retest bei 0,8202 ohne Bestätigung; kurz vor 19:30-Sperre, Kapitalschutz bei ~86 € Puffer bis Tagesstopp."
@@ -475,10 +483,6 @@
     {
       "zeit": "2026-11-03T16:16:00+01:00",
       "text": "Kein neuer Trade: Konto flach, Tagesergebnis −3,30 %, Puffer bis zum Tagesstopp nur ~86 €. USDJPY zieht an (158,5) ohne Pullback-Einstieg, USDCHF über 0,8200. Kapital wird geschützt."
-    },
-    {
-      "zeit": "2026-11-03T16:08:00+01:00",
-      "text": "16:01-Strategien (US500-Ausbruch, Gold B) setzen heute aus: um 16:00 kamen die US-JOLTS-Daten (High-Impact). Keine Orders gelegt."
     }
   ]
 }
