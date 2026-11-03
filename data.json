@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-03T15:45:00+01:00",
+ "stand": "2026-11-03T16:08:00+01:00",
  "startKonto": 4528.13,
  "tagesstart": 5064.54,
  "balance": 4897.46,
@@ -421,6 +421,10 @@
  ],
  "feed": [
   {
+   "zeit": "2026-11-03T16:08:00+01:00",
+   "text": "16:01-Strategien (US500-Ausbruch, Gold B) setzen heute aus: um 16:00 kamen die US-JOLTS-Daten (High-Impact). Keine Orders gelegt."
+  },
+  {
    "zeit": "2026-11-03T15:45:00+01:00",
    "text": "Kein neuer Trade: Konto flach, Sperrfenster 15:30–16:00 für Gold/US500, Puffer bis zum Tagesstopp (~86 €) bleibt für die 16:01-Strategien reserviert."
   },
@@ -447,10 +451,6 @@
   {
    "zeit": "2026-11-03T12:50:00+01:00",
    "text": "Scan 12:45: USDCHF steigt an 0,8200 ohne Ablehnung, Silber knapp unter 49,1–49,4 – kein Einstieg. Gold-Short (manuell) läuft +41 €."
-  },
-  {
-   "zeit": "03.11. 12:12",
-   "text": "Kein neuer Trade: USDCHF testet 0,8185–0,8200 von unten ohne Ablehnung, Silber knapp unter der Zone 49,1–49,4, Indizes im Webterminal nicht handelbar. Restrisiko-Budget ~0,8 % wegen des manuellen Gold-Shorts."
   }
  ]
 }
