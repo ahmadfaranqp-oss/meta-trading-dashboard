@@ -1,13 +1,13 @@
 {
- "stand": "2026-11-03T12:12:00+01:00",
+ "stand": "2026-11-03T12:50:00+01:00",
  "startKonto": 4528.13,
  "tagesstart": 5064.54,
  "balance": 5064.54,
- "equity": 5100.17,
+ "equity": 5105.73,
  "margin": 424.23,
  "tageszielProzent": 3,
  "tagesstoppProzent": 5,
- "heuteErgebnis": 35.63,
+ "heuteErgebnis": 41.19,
  "offenePositionen": [
   {
    "symbol": "XAUUSD",
@@ -16,7 +16,7 @@
    "einstieg": 3917.43,
    "sl": 3964.21,
    "tp": 3791.08,
-   "ergebnisEur": 35.63,
+   "ergebnisEur": 41.19,
    "kontoBeiEinstieg": 5064.54,
    "info": "manuell (nicht von mir), eröffnet 07:00 Berlin"
   }
@@ -390,9 +390,17 @@
   {
    "zeit": "2026-11-03T12:12:00+01:00",
    "equity": 5100.17
+  },
+  {
+   "zeit": "2026-11-03T12:50:00+01:00",
+   "equity": 5105.73
   }
  ],
  "feed": [
+  {
+   "zeit": "2026-11-03T12:50:00+01:00",
+   "text": "Scan 12:45: USDCHF steigt an 0,8200 ohne Ablehnung, Silber knapp unter 49,1–49,4 – kein Einstieg. Gold-Short (manuell) läuft +41 €."
+  },
   {
    "zeit": "03.11. 12:12",
    "text": "Kein neuer Trade: USDCHF testet 0,8185–0,8200 von unten ohne Ablehnung, Silber knapp unter der Zone 49,1–49,4, Indizes im Webterminal nicht handelbar. Restrisiko-Budget ~0,8 % wegen des manuellen Gold-Shorts."
@@ -420,10 +428,6 @@
   {
    "zeit": "2026-11-03T09:18:00+01:00",
    "text": "Scan 09:12: USDCHF, Silber, DE40 im Abwärtstrend, aber am Tief ohne Pullback – kein Einstieg. Warte auf Rücksetzer; Gold-Short (manuell) läuft +33 €."
-  },
-  {
-   "zeit": "2026-11-02T16:47:00+01:00",
-   "text": "Kein Trade – Webterminal verbindet weiterhin nicht (Error 10), Kontodaten nicht lesbar. Werte zeigen den letzten bekannten Stand."
   }
  ]
 }
