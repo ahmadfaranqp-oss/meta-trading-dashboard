@@ -1,13 +1,13 @@
 {
- "stand": "2026-11-03T10:18:00+01:00",
+ "stand": "2026-11-03T10:50:00+01:00",
  "startKonto": 4528.13,
  "tagesstart": 5064.54,
  "balance": 5064.54,
- "equity": 5125.87,
+ "equity": 5090.77,
  "margin": 424.23,
  "tageszielProzent": 3,
  "tagesstoppProzent": 5,
- "heuteErgebnis": 61.33,
+ "heuteErgebnis": 26.23,
  "offenePositionen": [
   {
    "symbol": "XAUUSD",
@@ -16,7 +16,7 @@
    "einstieg": 3917.43,
    "sl": 3964.21,
    "tp": 3791.08,
-   "ergebnisEur": 61.33,
+   "ergebnisEur": 26.23,
    "kontoBeiEinstieg": 5064.54,
    "info": "manuell (nicht von mir), eröffnet 07:00 Berlin"
   }
@@ -374,9 +374,17 @@
   {
    "label": "",
    "value": 5125.87
+  },
+  {
+   "zeit": "2026-11-03T10:50:00+01:00",
+   "equity": 5090.77
   }
  ],
  "feed": [
+  {
+   "zeit": "03.11. 10:50",
+   "text": "Kein neuer Trade: USDCHF und DE40 laufen noch in ihre Widerstandszonen ohne Ablehnungssignal, USDJPY bricht nach oben aus (Short-Idee verworfen). Restrisiko-Budget ~0,8 % wegen des manuellen Gold-Shorts."
+  },
   {
    "zeit": "03.11. 10:18",
    "text": "Kein neuer Trade: DE40, USDCHF und Silber prallen gerade von ihren Tiefs ab, Einstieg jetzt ohne sauberes Chance-Risiko-Verhältnis. Restrisiko-Budget ~0,8 % wegen des manuellen Gold-Shorts."
@@ -404,10 +412,6 @@
   {
    "zeit": "2026-11-02T18:13:00+01:00",
    "text": "Kein Trade – Webterminal seit 13:41 ohne Verbindung (Error 10). Trading-Zyklen pausiert, bis das Konto neu verbunden ist."
-  },
-  {
-   "zeit": "2026-11-02T20:15:00+01:00",
-   "text": "Schicht beendet – heute keine Trades, da das Webterminal seit 13:41 nicht verbunden ist (Error 10). Letzter bekannter Stand 4.948,43 €, seit Start +420,30 € (+9,3 %). Startstand für morgen: 4.948,43 €."
   }
  ]
 }
