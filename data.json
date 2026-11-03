@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-03T18:42:00+01:00",
+  "stand": "2026-11-03T19:13:00+01:00",
   "startKonto": 4528.13,
   "tagesstart": 5064.54,
   "balance": 4897.46,
@@ -441,9 +441,17 @@
     {
       "zeit": "2026-11-03T18:42:00+01:00",
       "equity": 4897.46
+    },
+    {
+      "zeit": "2026-11-03T19:13:00+01:00",
+      "equity": 4897.46
     }
   ],
   "feed": [
+    {
+      "zeit": "2026-11-03T19:13:00+01:00",
+      "text": "19:13 – Kein neuer Trade: USDCHF weiter im Retest bei 0,8202 ohne Bestätigung; kurz vor 19:30-Sperre, Kapitalschutz bei ~86 € Puffer bis Tagesstopp."
+    },
     {
       "zeit": "2026-11-03T18:42:00+01:00",
       "text": "18:42 – Kein neuer Trade: USDCHF im Retest-Bereich 0,8205, aber ohne Bestätigung; Schichtende naht, Kapitalschutz bei ~86 € Puffer bis Tagesstopp."
@@ -471,10 +479,6 @@
     {
       "zeit": "2026-11-03T16:08:00+01:00",
       "text": "16:01-Strategien (US500-Ausbruch, Gold B) setzen heute aus: um 16:00 kamen die US-JOLTS-Daten (High-Impact). Keine Orders gelegt."
-    },
-    {
-      "zeit": "2026-11-03T15:45:00+01:00",
-      "text": "Kein neuer Trade: Konto flach, Sperrfenster 15:30–16:00 für Gold/US500, Puffer bis zum Tagesstopp (~86 €) bleibt für die 16:01-Strategien reserviert."
     }
   ]
 }
