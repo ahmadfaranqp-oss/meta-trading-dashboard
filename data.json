@@ -1,13 +1,13 @@
 {
- "stand": "2026-11-03T08:18:00+01:00",
+ "stand": "2026-11-03T08:47:00+01:00",
  "startKonto": 4528.13,
  "tagesstart": 5064.54,
  "balance": 5064.54,
- "equity": 5089.13,
+ "equity": 5087.47,
  "margin": 424.23,
  "tageszielProzent": 3,
  "tagesstoppProzent": 5,
- "heuteErgebnis": 24.59,
+ "heuteErgebnis": 22.93,
  "offenePositionen": [
   {
    "symbol": "XAUUSD",
@@ -16,7 +16,7 @@
    "einstieg": 3917.43,
    "sl": 3964.21,
    "tp": 3791.08,
-   "ergebnisEur": 24.59,
+   "ergebnisEur": 22.93,
    "kontoBeiEinstieg": 5064.54,
    "info": "manuell (nicht von mir), eröffnet 07:00 Berlin"
   }
@@ -358,6 +358,10 @@
   {
    "zeit": "2026-11-03T08:18:00+01:00",
    "equity": 5089.13
+  },
+  {
+   "zeit": "2026-11-03T08:47:00+01:00",
+   "equity": 5087.47
   }
  ],
  "feed": [
@@ -392,6 +396,10 @@
   {
    "zeit": "2026-11-03T08:18:00+01:00",
    "text": "Webterminal wieder verbunden. Balance 5.064,54 €, Equity 5.089,13 €. Offen: manueller Gold-Short 0,04 Lot (+24,59 €). Kein eigener neuer Trade in diesem Zyklus – der 08:01-Gold-Lauf ist gerade aktiv."
+  },
+  {
+   "zeit": "2026-11-03T08:47:00+01:00",
+   "text": "Kein neuer Trade – Tagesstart 5.064,54 € bestätigt (keine Closed Deals am 02./03.11.). Der manuelle Gold-Short belegt rund 3,2 % Risiko, es bleiben nur ~0,8 %; im Scan kein sauberes Setup (USDCHF nach starkem Abverkauf am Tief, EURUSD an 1,1200). JOLTS um 16:00."
   }
  ]
 }
