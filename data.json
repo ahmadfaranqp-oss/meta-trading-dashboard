@@ -1,14 +1,26 @@
 {
-  "stand": "2026-11-02T20:15:00+01:00",
+  "stand": "2026-11-03T08:20:00+01:00",
   "startKonto": 4528.13,
   "tagesstart": 4948.43,
-  "balance": 4948.43,
-  "equity": 4948.43,
-  "margin": 0,
+  "balance": 5064.54,
+  "equity": 5088.0,
+  "margin": 424.23,
   "tageszielProzent": 3,
   "tagesstoppProzent": 5,
-  "heuteErgebnis": 0,
-  "offenePositionen": [],
+  "heuteErgebnis": 139.57,
+  "offenePositionen": [
+    {
+      "symbol": "XAUUSD",
+      "richtung": "short",
+      "lot": 0.04,
+      "einstieg": 3917.43,
+      "sl": 3964.21,
+      "tp": 3791.08,
+      "ergebnisEur": 24.0,
+      "kontoBeiEinstieg": 5064.54,
+      "info": "nicht von mir (eröffnet 08:00:57, ohne Kommentar)"
+    }
+  ],
   "pendingOrders": [],
   "historie": [
     {
@@ -338,13 +350,13 @@
     {
       "zeit": "2026-11-02T20:15:00+01:00",
       "equity": 4948.43
+    },
+    {
+      "zeit": "2026-11-03T08:20:00+01:00",
+      "equity": 5088.0
     }
   ],
   "feed": [
-    {
-      "zeit": "2026-11-02T15:21:00+01:00",
-      "text": "Kein Trade – das Webterminal verbindet weiterhin nicht (Error 10), Kontodaten nicht lesbar. Kontostand zuletzt 4.948,43 €."
-    },
     {
       "zeit": "2026-11-02T15:47:00+01:00",
       "text": "Kein Trade – das Webterminal verbindet weiterhin nicht (Error 10), Kontodaten nicht lesbar. Kontostand zuletzt 4.948,43 €."
@@ -372,6 +384,10 @@
     {
       "zeit": "2026-11-02T20:15:00+01:00",
       "text": "Schicht beendet – heute keine Trades, da das Webterminal seit 13:41 nicht verbunden ist (Error 10). Letzter bekannter Stand 4.948,43 €, seit Start +420,30 € (+9,3 %). Startstand für morgen: 4.948,43 €."
+    },
+    {
+      "zeit": "2026-11-03T08:20:00+01:00",
+      "text": "Gold-Kombi A (Asia-Ausbruch): keine Order – Trend H4 short, Kurs lag schon unter dem Spannentief 3.913,38, Ausbruch verpasst. Konto wieder verbunden, Balance 5.064,54 €."
     }
   ]
 }
