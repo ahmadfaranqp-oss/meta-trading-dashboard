@@ -1,13 +1,13 @@
 {
-  "stand": "2026-11-03T09:18:00+01:00",
+  "stand": "2026-11-03T09:48:00+01:00",
   "startKonto": 4528.13,
   "tagesstart": 5064.54,
-  "balance": 5064.54,
-  "equity": 5097.73,
+  "balance": 5084.54,
+  "equity": 5118.0,
   "margin": 424.23,
   "tageszielProzent": 3,
   "tagesstoppProzent": 5,
-  "heuteErgebnis": 33.19,
+  "heuteErgebnis": 53.46,
   "offenePositionen": [
     {
       "symbol": "XAUUSD",
@@ -16,7 +16,7 @@
       "einstieg": 3917.43,
       "sl": 3964.21,
       "tp": 3791.08,
-      "ergebnisEur": 33.19,
+      "ergebnisEur": 53.0,
       "kontoBeiEinstieg": 5064.54,
       "info": "manuell (nicht von mir), eröffnet 07:00 Berlin"
     }
@@ -366,9 +366,17 @@
     {
       "zeit": "2026-11-03T09:18:00+01:00",
       "equity": 5097.73
+    },
+    {
+      "zeit": "2026-11-03T09:48:00+01:00",
+      "equity": 5118.0
     }
   ],
   "feed": [
+    {
+      "zeit": "2026-11-03T09:48:00+01:00",
+      "text": "Scan 09:45: DE40, USDCHF, Silber weiter abwärts, aber am Tief ohne Pullback – kein Einstieg, Restrisiko-Budget nur ~0,8 %. Gold-Short (manuell) läuft ~+53 €."
+    },
     {
       "zeit": "2026-11-03T09:18:00+01:00",
       "text": "Scan 09:12: USDCHF, Silber, DE40 im Abwärtstrend, aber am Tief ohne Pullback – kein Einstieg. Warte auf Rücksetzer; Gold-Short (manuell) läuft +33 €."
@@ -396,10 +404,6 @@
     {
       "zeit": "2026-11-03T08:20:00+01:00",
       "text": "Gold-Kombi A (Asia-Ausbruch): keine Order – Trend H4 short, Kurs lag schon unter dem Spannentief 3.913,38, Ausbruch verpasst. Konto wieder verbunden, Balance 5.064,54 €."
-    },
-    {
-      "zeit": "2026-11-03T08:18:00+01:00",
-      "text": "Webterminal wieder verbunden. Balance 5.064,54 €, Equity 5.089,13 €. Offen: manueller Gold-Short 0,04 Lot (+24,59 €). Kein eigener neuer Trade in diesem Zyklus – der 08:01-Gold-Lauf ist gerade aktiv."
     }
   ]
 }
