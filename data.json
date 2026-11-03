@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-03T17:17:00+01:00",
+  "stand": "2026-11-03T17:43:00+01:00",
   "startKonto": 4528.13,
   "tagesstart": 5064.54,
   "balance": 4897.46,
@@ -429,9 +429,17 @@
     {
       "zeit": "2026-11-03T17:17:00+01:00",
       "equity": 4897.46
+    },
+    {
+      "zeit": "2026-11-03T17:43:00+01:00",
+      "equity": 4897.46
     }
   ],
   "feed": [
+    {
+      "zeit": "2026-11-03T17:43:00+01:00",
+      "text": "Kein neuer Trade: Konto flach, Tagesergebnis −3,30 %. USDCHF nähert sich mit 0,8208 dem Retest-Bereich 0,8200–0,8205, aber ohne Bestätigung; USDJPY konsolidiert am Hoch bei 158,5. Kapitalschutz bei ~86 € Puffer bis zum Tagesstopp."
+    },
     {
       "zeit": "2026-11-03T17:17:00+01:00",
       "text": "Kein neuer Trade: Konto flach, Tagesergebnis −3,30 %. USDJPY bei 158,43 nach Spike auf 158,61, USDCHF knapp über 0,8200 (0,8206) – beide noch ohne sauberen Retest. Kapitalschutz bei ~86 € Puffer bis zum Tagesstopp."
@@ -459,10 +467,6 @@
     {
       "zeit": "2026-11-03T14:50:00+01:00",
       "text": "14:45: Manueller Gold-Short im Stop-Loss (3.964,21), −167,08 EUR. Tag −3,30 %, Puffer bis Tagesstopp nur noch ~86 EUR – keine eigenen Ad-hoc-Trades mehr, Puffer bleibt für die getesteten 16:01-Strategien."
-    },
-    {
-      "zeit": "2026-11-03T14:18:00+01:00",
-      "text": "14:16: Kein neuer Trade. Silber bricht über 49,4 aus (Short-Idee verworfen), USDCHF scheitert an 0,8200, USDJPY ohne Pullback. Gold-Short (manuell) liegt bei −67 EUR."
     }
   ]
 }
