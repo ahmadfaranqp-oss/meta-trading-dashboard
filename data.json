@@ -1,13 +1,13 @@
 {
-  "stand": "2026-11-03T19:40:00+01:00",
+  "stand": "2026-11-03T20:20:00+01:00",
   "startKonto": 4528.13,
-  "tagesstart": 5064.54,
+  "tagesstart": 4897.46,
   "balance": 4897.46,
   "equity": 4897.46,
   "margin": 0.0,
   "tageszielProzent": 3,
   "tagesstoppProzent": 5,
-  "heuteErgebnis": -167.08,
+  "heuteErgebnis": 0.0,
   "offenePositionen": [],
   "pendingOrders": [],
   "historie": [
@@ -449,9 +449,17 @@
     {
       "zeit": "2026-11-03T19:40:00+01:00",
       "equity": 4897.46
+    },
+    {
+      "zeit": "2026-11-03T20:20:00+01:00",
+      "equity": 4897.46
     }
   ],
   "feed": [
+    {
+      "zeit": "2026-11-03T20:20:00+01:00",
+      "text": "20:20 – Schicht beendet: keine offenen Positionen oder Orders. Tag −167,08 € (−3,30 %, manueller Gold-Short im SL). Gesamt seit Start +369,33 € (+8,16 %). Startstand morgen 4.897,46 €."
+    },
     {
       "zeit": "2026-11-03T19:40:00+01:00",
       "text": "19:40 – 19:30-Sperre aktiv: keine neuen Trades mehr heute, keine offenen Positionen oder Orders. Tagesergebnis −167,08 € (manueller Gold-Short im SL)."
@@ -479,10 +487,6 @@
     {
       "zeit": "2026-11-03T16:45:00+01:00",
       "text": "Kein neuer Trade: Konto flach, Tagesergebnis −3,30 %. USDJPY steigt auf 158,5 und USDCHF über 0,8200, beide ohne Pullback-Einstieg. Bei ~86 € Puffer bis zum Tagesstopp wird Kapital geschützt."
-    },
-    {
-      "zeit": "2026-11-03T16:16:00+01:00",
-      "text": "Kein neuer Trade: Konto flach, Tagesergebnis −3,30 %, Puffer bis zum Tagesstopp nur ~86 €. USDJPY zieht an (158,5) ohne Pullback-Einstieg, USDCHF über 0,8200. Kapital wird geschützt."
     }
   ]
 }
