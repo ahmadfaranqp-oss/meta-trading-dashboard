@@ -1,393 +1,397 @@
 {
-  "stand": "2026-11-03T08:20:00+01:00",
-  "startKonto": 4528.13,
-  "tagesstart": 4948.43,
-  "balance": 5064.54,
-  "equity": 5088.0,
-  "margin": 424.23,
-  "tageszielProzent": 3,
-  "tagesstoppProzent": 5,
-  "heuteErgebnis": 139.57,
-  "offenePositionen": [
-    {
-      "symbol": "XAUUSD",
-      "richtung": "short",
-      "lot": 0.04,
-      "einstieg": 3917.43,
-      "sl": 3964.21,
-      "tp": 3791.08,
-      "ergebnisEur": 24.0,
-      "kontoBeiEinstieg": 5064.54,
-      "info": "nicht von mir (eröffnet 08:00:57, ohne Kommentar)"
-    }
-  ],
-  "pendingOrders": [],
-  "historie": [
-    {
-      "datum": "2026-10-28T15:23:32+01:00",
-      "symbol": "XAUUSD",
-      "richtung": "short",
-      "lot": 0.3,
-      "einstieg": 4049.88,
-      "ausstieg": 4045.09,
-      "ergebnisEur": 129.14,
-      "kontoBeiEinstieg": 4819.29
-    },
-    {
-      "datum": "2026-10-28T14:46:52+01:00",
-      "symbol": "XAUUSD",
-      "richtung": "long",
-      "lot": 0.3,
-      "einstieg": 4048.95,
-      "ausstieg": 4048.98,
-      "ergebnisEur": 0.81,
-      "kontoBeiEinstieg": 4626.82
-    },
-    {
-      "datum": "2026-10-28T14:46:30+01:00",
-      "symbol": "XAUUSD",
-      "richtung": "long",
-      "lot": 0.3,
-      "einstieg": 4048.66,
-      "ausstieg": 4048.95,
-      "ergebnisEur": 7.81,
-      "kontoBeiEinstieg": 4626.82
-    },
-    {
-      "datum": "2026-10-28T14:45:58+01:00",
-      "symbol": "XAUUSD",
-      "richtung": "short",
-      "lot": 0.3,
-      "einstieg": 4049.44,
-      "ausstieg": 4048.69,
-      "ergebnisEur": 20.2,
-      "kontoBeiEinstieg": 4626.82
-    },
-    {
-      "datum": "2026-10-28T14:45:04+01:00",
-      "symbol": "XAUUSD",
-      "richtung": "short",
-      "lot": 0.2,
-      "einstieg": 4050.38,
-      "ausstieg": 4049.63,
-      "ergebnisEur": 13.47,
-      "kontoBeiEinstieg": 4626.82
-    },
-    {
-      "datum": "2026-10-28T11:28:26+01:00",
-      "symbol": "XAUUSD",
-      "richtung": "long",
-      "lot": 0.1,
-      "einstieg": 4030.9,
-      "ausstieg": 4047.61,
-      "ergebnisEur": 150.18,
-      "kontoBeiEinstieg": 4626.82
-    },
-    {
-      "datum": "2026-10-28T07:12:26+01:00",
-      "symbol": "EURUSD",
-      "richtung": "short",
-      "lot": 0.15,
-      "einstieg": 1.11577,
-      "ausstieg": 1.11188,
-      "ergebnisEur": 52.48,
-      "kontoBeiEinstieg": 4589.49
-    },
-    {
-      "datum": "2026-10-28T07:12:26+01:00",
-      "symbol": "XAUUSD",
-      "richtung": "long",
-      "lot": 0.02,
-      "einstieg": 4038.0,
-      "ausstieg": 4029.65,
-      "ergebnisEur": -15.02,
-      "kontoBeiEinstieg": 4589.49
-    },
-    {
-      "datum": "2026-10-26T20:05:00+01:00",
-      "symbol": "XAUUSD",
-      "richtung": "short",
-      "lot": 0.05,
-      "einstieg": 4024,
-      "ausstieg": 4010.28,
-      "ergebnisEur": 61.36,
-      "kontoBeiEinstieg": 4528.13
-    }
-  ],
-  "equityKurve": [
-    {
-      "zeit": "2026-10-26T13:42:00+01:00",
-      "equity": 4528.13
-    },
-    {
-      "zeit": "2026-10-26T14:10:00+01:00",
-      "equity": 4528.13
-    },
-    {
-      "zeit": "2026-10-26T14:35:00+01:00",
-      "equity": 4528.13
-    },
-    {
-      "zeit": "2026-10-26T15:07:00+01:00",
-      "equity": 4528.13
-    },
-    {
-      "zeit": "2026-10-26T15:44:00+01:00",
-      "equity": 4528.13
-    },
-    {
-      "zeit": "2026-10-26T16:12:00+01:00",
-      "equity": 4535.78
-    },
-    {
-      "zeit": "2026-10-26T16:50:00+01:00",
-      "equity": 4555
-    },
-    {
-      "zeit": "2026-10-26T17:05:00+01:00",
-      "equity": 4552
-    },
-    {
-      "zeit": "2026-10-26T17:42:00+01:00",
-      "equity": 4550.04
-    },
-    {
-      "zeit": "2026-10-26T18:13:00+01:00",
-      "equity": 4512.71
-    },
-    {
-      "zeit": "2026-10-26T18:35:00+01:00",
-      "equity": 4526.43
-    },
-    {
-      "zeit": "2026-10-26T19:15:00+01:00",
-      "equity": 4544.57
-    },
-    {
-      "zeit": "2026-10-26T19:40:00+01:00",
-      "equity": 4569.35
-    },
-    {
-      "zeit": "2026-10-26T20:05:00+01:00",
-      "equity": 4589.49
-    },
-    {
-      "zeit": "2026-10-27T05:18:00+01:00",
-      "equity": 4589.49
-    },
-    {
-      "zeit": "2026-10-27T05:46:00+01:00",
-      "equity": 4589.49
-    },
-    {
-      "zeit": "2026-10-27T06:12:00+01:00",
-      "equity": 4589.49
-    },
-    {
-      "zeit": "2026-10-27T06:42:00+01:00",
-      "equity": 4589.49
-    },
-    {
-      "zeit": "2026-10-27T07:20:00+01:00",
-      "equity": 4589.49
-    },
-    {
-      "zeit": "2026-10-27T07:44:00+01:00",
-      "equity": 4589.49
-    },
-    {
-      "zeit": "2026-10-27T08:15:00+01:00",
-      "equity": 4590.16
-    },
-    {
-      "zeit": "2026-10-27T08:30:00+01:00",
-      "equity": 4581.16
-    },
-    {
-      "zeit": "2026-10-27T09:00:00+01:00",
-      "equity": 4586.53
-    },
-    {
-      "zeit": "2026-10-27T09:35:00+01:00",
-      "equity": 4591.6
-    },
-    {
-      "zeit": "2026-10-27T10:05:00+01:00",
-      "equity": 4595.7
-    },
-    {
-      "zeit": "2026-10-27T10:37:00+01:00",
-      "equity": 4614.54
-    },
-    {
-      "zeit": "2026-10-27T11:05:00+01:00",
-      "equity": 4611.44
-    },
-    {
-      "zeit": "2026-10-27T11:40:00+01:00",
-      "equity": 4607.8
-    },
-    {
-      "zeit": "2026-10-27T12:06:00+01:00",
-      "equity": 4604.43
-    },
-    {
-      "zeit": "2026-10-27T12:40:00+01:00",
-      "equity": 4608.3
-    },
-    {
-      "zeit": "2026-10-27T13:15:00+01:00",
-      "equity": 4596.89
-    },
-    {
-      "zeit": "2026-10-27T13:40:00+01:00",
-      "equity": 4597.56
-    },
-    {
-      "zeit": "2026-10-27T14:15:00+01:00",
-      "equity": 4599.5
-    },
-    {
-      "zeit": "2026-10-27T14:40:00+01:00",
-      "equity": 4609.5
-    },
-    {
-      "zeit": "2026-10-27T15:15:00+01:00",
-      "equity": 4598.5
-    },
-    {
-      "zeit": "2026-10-27T15:37:00+01:00",
-      "equity": 4602.14
-    },
-    {
-      "zeit": "2026-10-27T16:10:00+01:00",
-      "equity": 4608.47
-    },
-    {
-      "zeit": "2026-10-27T16:45:00+01:00",
-      "equity": 4608.33
-    },
-    {
-      "zeit": "2026-10-27T17:08:00+01:00",
-      "equity": 4608.4
-    },
-    {
-      "zeit": "2026-10-27T17:40:00+01:00",
-      "equity": 4610.63
-    },
-    {
-      "zeit": "2026-10-27T18:10:00+01:00",
-      "equity": 4614.0
-    },
-    {
-      "zeit": "2026-10-27T18:38:00+01:00",
-      "equity": 4614.67
-    },
-    {
-      "zeit": "2026-10-28T09:12:00+01:00",
-      "equity": 4763.65
-    },
-    {
-      "zeit": "2026-10-28T09:43:00+01:00",
-      "equity": 4825.77
-    },
-    {
-      "zeit": "2026-10-28T10:18:00+01:00",
-      "equity": 4833.67
-    },
-    {
-      "zeit": "2026-10-28T10:46:00+01:00",
-      "equity": 4842.2
-    },
-    {
-      "zeit": "2026-10-28T11:16:00+01:00",
-      "equity": 4794.82
-    },
-    {
-      "zeit": "2026-10-28T15:21:00+01:00",
-      "equity": 4870.24
-    },
-    {
-      "zeit": "2026-10-28T15:46:00+01:00",
-      "equity": 4948.43
-    },
-    {
-      "zeit": "2026-10-28T16:20:00+01:00",
-      "equity": 4948.43
-    },
-    {
-      "zeit": "2026-10-28T16:45:00+01:00",
-      "equity": 4948.43
-    },
-    {
-      "zeit": "2026-11-02T14:12:00+01:00",
-      "equity": 4948.43
-    },
-    {
-      "zeit": "2026-11-02T14:46:00+01:00",
-      "equity": 4948.43
-    },
-    {
-      "zeit": "2026-11-02T15:47:00+01:00",
-      "equity": 4948.43
-    },
-    {
-      "zeit": "2026-11-02T16:16:00+01:00",
-      "equity": 4948.43
-    },
-    {
-      "zeit": "2026-11-02T17:15:00+01:00",
-      "equity": 4948.43
-    },
-    {
-      "zeit": "2026-11-02T17:45:00+01:00",
-      "equity": 4948.43
-    },
-    {
-      "zeit": "2026-11-02T18:13:00+01:00",
-      "equity": 4948.43
-    },
-    {
-      "zeit": "2026-11-02T20:15:00+01:00",
-      "equity": 4948.43
-    },
-    {
-      "zeit": "2026-11-03T08:20:00+01:00",
-      "equity": 5088.0
-    }
-  ],
-  "feed": [
-    {
-      "zeit": "2026-11-02T15:47:00+01:00",
-      "text": "Kein Trade – das Webterminal verbindet weiterhin nicht (Error 10), Kontodaten nicht lesbar. Kontostand zuletzt 4.948,43 €."
-    },
-    {
-      "zeit": "2026-11-02T16:16:00+01:00",
-      "text": "Kein Trade – das Webterminal verbindet weiterhin nicht (Error 10), Kontodaten nicht lesbar. Der 16:01-Ausbruch wurde wegen der ISM-Daten ohnehin ausgesetzt. Kontostand zuletzt 4.948,43 €."
-    },
-    {
-      "zeit": "2026-11-02T16:47:00+01:00",
-      "text": "Kein Trade – Webterminal verbindet weiterhin nicht (Error 10), Kontodaten nicht lesbar. Werte zeigen den letzten bekannten Stand."
-    },
-    {
-      "zeit": "2026-11-02T17:15:00+01:00",
-      "text": "Kein Trade – Webterminal verbindet weiterhin nicht (Error 10), Kontodaten nicht lesbar. Werte zeigen den letzten bekannten Stand."
-    },
-    {
-      "zeit": "2026-11-02T17:45:00+01:00",
-      "text": "Kein Trade – Webterminal verbindet weiterhin nicht (Error 10), Kontodaten nicht lesbar. Werte zeigen den letzten bekannten Stand."
-    },
-    {
-      "zeit": "2026-11-02T18:13:00+01:00",
-      "text": "Kein Trade – Webterminal seit 13:41 ohne Verbindung (Error 10). Trading-Zyklen pausiert, bis das Konto neu verbunden ist."
-    },
-    {
-      "zeit": "2026-11-02T20:15:00+01:00",
-      "text": "Schicht beendet – heute keine Trades, da das Webterminal seit 13:41 nicht verbunden ist (Error 10). Letzter bekannter Stand 4.948,43 €, seit Start +420,30 € (+9,3 %). Startstand für morgen: 4.948,43 €."
-    },
-    {
-      "zeit": "2026-11-03T08:20:00+01:00",
-      "text": "Gold-Kombi A (Asia-Ausbruch): keine Order – Trend H4 short, Kurs lag schon unter dem Spannentief 3.913,38, Ausbruch verpasst. Konto wieder verbunden, Balance 5.064,54 €."
-    }
-  ]
+ "stand": "2026-11-03T08:18:00+01:00",
+ "startKonto": 4528.13,
+ "tagesstart": 5064.54,
+ "balance": 5064.54,
+ "equity": 5089.13,
+ "margin": 424.23,
+ "tageszielProzent": 3,
+ "tagesstoppProzent": 5,
+ "heuteErgebnis": 24.59,
+ "offenePositionen": [
+  {
+   "symbol": "XAUUSD",
+   "richtung": "short",
+   "lot": 0.04,
+   "einstieg": 3917.43,
+   "sl": 3964.21,
+   "tp": 3791.08,
+   "ergebnisEur": 24.59,
+   "kontoBeiEinstieg": 5064.54,
+   "info": "manuell (nicht von mir), eröffnet 07:00 Berlin"
+  }
+ ],
+ "pendingOrders": [],
+ "historie": [
+  {
+   "datum": "2026-10-28T15:23:32+01:00",
+   "symbol": "XAUUSD",
+   "richtung": "short",
+   "lot": 0.3,
+   "einstieg": 4049.88,
+   "ausstieg": 4045.09,
+   "ergebnisEur": 129.14,
+   "kontoBeiEinstieg": 4819.29
+  },
+  {
+   "datum": "2026-10-28T14:46:52+01:00",
+   "symbol": "XAUUSD",
+   "richtung": "long",
+   "lot": 0.3,
+   "einstieg": 4048.95,
+   "ausstieg": 4048.98,
+   "ergebnisEur": 0.81,
+   "kontoBeiEinstieg": 4626.82
+  },
+  {
+   "datum": "2026-10-28T14:46:30+01:00",
+   "symbol": "XAUUSD",
+   "richtung": "long",
+   "lot": 0.3,
+   "einstieg": 4048.66,
+   "ausstieg": 4048.95,
+   "ergebnisEur": 7.81,
+   "kontoBeiEinstieg": 4626.82
+  },
+  {
+   "datum": "2026-10-28T14:45:58+01:00",
+   "symbol": "XAUUSD",
+   "richtung": "short",
+   "lot": 0.3,
+   "einstieg": 4049.44,
+   "ausstieg": 4048.69,
+   "ergebnisEur": 20.2,
+   "kontoBeiEinstieg": 4626.82
+  },
+  {
+   "datum": "2026-10-28T14:45:04+01:00",
+   "symbol": "XAUUSD",
+   "richtung": "short",
+   "lot": 0.2,
+   "einstieg": 4050.38,
+   "ausstieg": 4049.63,
+   "ergebnisEur": 13.47,
+   "kontoBeiEinstieg": 4626.82
+  },
+  {
+   "datum": "2026-10-28T11:28:26+01:00",
+   "symbol": "XAUUSD",
+   "richtung": "long",
+   "lot": 0.1,
+   "einstieg": 4030.9,
+   "ausstieg": 4047.61,
+   "ergebnisEur": 150.18,
+   "kontoBeiEinstieg": 4626.82
+  },
+  {
+   "datum": "2026-10-28T07:12:26+01:00",
+   "symbol": "EURUSD",
+   "richtung": "short",
+   "lot": 0.15,
+   "einstieg": 1.11577,
+   "ausstieg": 1.11188,
+   "ergebnisEur": 52.48,
+   "kontoBeiEinstieg": 4589.49
+  },
+  {
+   "datum": "2026-10-28T07:12:26+01:00",
+   "symbol": "XAUUSD",
+   "richtung": "long",
+   "lot": 0.02,
+   "einstieg": 4038.0,
+   "ausstieg": 4029.65,
+   "ergebnisEur": -15.02,
+   "kontoBeiEinstieg": 4589.49
+  },
+  {
+   "datum": "2026-10-26T20:05:00+01:00",
+   "symbol": "XAUUSD",
+   "richtung": "short",
+   "lot": 0.05,
+   "einstieg": 4024,
+   "ausstieg": 4010.28,
+   "ergebnisEur": 61.36,
+   "kontoBeiEinstieg": 4528.13
+  }
+ ],
+ "equityKurve": [
+  {
+   "zeit": "2026-10-26T13:42:00+01:00",
+   "equity": 4528.13
+  },
+  {
+   "zeit": "2026-10-26T14:10:00+01:00",
+   "equity": 4528.13
+  },
+  {
+   "zeit": "2026-10-26T14:35:00+01:00",
+   "equity": 4528.13
+  },
+  {
+   "zeit": "2026-10-26T15:07:00+01:00",
+   "equity": 4528.13
+  },
+  {
+   "zeit": "2026-10-26T15:44:00+01:00",
+   "equity": 4528.13
+  },
+  {
+   "zeit": "2026-10-26T16:12:00+01:00",
+   "equity": 4535.78
+  },
+  {
+   "zeit": "2026-10-26T16:50:00+01:00",
+   "equity": 4555
+  },
+  {
+   "zeit": "2026-10-26T17:05:00+01:00",
+   "equity": 4552
+  },
+  {
+   "zeit": "2026-10-26T17:42:00+01:00",
+   "equity": 4550.04
+  },
+  {
+   "zeit": "2026-10-26T18:13:00+01:00",
+   "equity": 4512.71
+  },
+  {
+   "zeit": "2026-10-26T18:35:00+01:00",
+   "equity": 4526.43
+  },
+  {
+   "zeit": "2026-10-26T19:15:00+01:00",
+   "equity": 4544.57
+  },
+  {
+   "zeit": "2026-10-26T19:40:00+01:00",
+   "equity": 4569.35
+  },
+  {
+   "zeit": "2026-10-26T20:05:00+01:00",
+   "equity": 4589.49
+  },
+  {
+   "zeit": "2026-10-27T05:18:00+01:00",
+   "equity": 4589.49
+  },
+  {
+   "zeit": "2026-10-27T05:46:00+01:00",
+   "equity": 4589.49
+  },
+  {
+   "zeit": "2026-10-27T06:12:00+01:00",
+   "equity": 4589.49
+  },
+  {
+   "zeit": "2026-10-27T06:42:00+01:00",
+   "equity": 4589.49
+  },
+  {
+   "zeit": "2026-10-27T07:20:00+01:00",
+   "equity": 4589.49
+  },
+  {
+   "zeit": "2026-10-27T07:44:00+01:00",
+   "equity": 4589.49
+  },
+  {
+   "zeit": "2026-10-27T08:15:00+01:00",
+   "equity": 4590.16
+  },
+  {
+   "zeit": "2026-10-27T08:30:00+01:00",
+   "equity": 4581.16
+  },
+  {
+   "zeit": "2026-10-27T09:00:00+01:00",
+   "equity": 4586.53
+  },
+  {
+   "zeit": "2026-10-27T09:35:00+01:00",
+   "equity": 4591.6
+  },
+  {
+   "zeit": "2026-10-27T10:05:00+01:00",
+   "equity": 4595.7
+  },
+  {
+   "zeit": "2026-10-27T10:37:00+01:00",
+   "equity": 4614.54
+  },
+  {
+   "zeit": "2026-10-27T11:05:00+01:00",
+   "equity": 4611.44
+  },
+  {
+   "zeit": "2026-10-27T11:40:00+01:00",
+   "equity": 4607.8
+  },
+  {
+   "zeit": "2026-10-27T12:06:00+01:00",
+   "equity": 4604.43
+  },
+  {
+   "zeit": "2026-10-27T12:40:00+01:00",
+   "equity": 4608.3
+  },
+  {
+   "zeit": "2026-10-27T13:15:00+01:00",
+   "equity": 4596.89
+  },
+  {
+   "zeit": "2026-10-27T13:40:00+01:00",
+   "equity": 4597.56
+  },
+  {
+   "zeit": "2026-10-27T14:15:00+01:00",
+   "equity": 4599.5
+  },
+  {
+   "zeit": "2026-10-27T14:40:00+01:00",
+   "equity": 4609.5
+  },
+  {
+   "zeit": "2026-10-27T15:15:00+01:00",
+   "equity": 4598.5
+  },
+  {
+   "zeit": "2026-10-27T15:37:00+01:00",
+   "equity": 4602.14
+  },
+  {
+   "zeit": "2026-10-27T16:10:00+01:00",
+   "equity": 4608.47
+  },
+  {
+   "zeit": "2026-10-27T16:45:00+01:00",
+   "equity": 4608.33
+  },
+  {
+   "zeit": "2026-10-27T17:08:00+01:00",
+   "equity": 4608.4
+  },
+  {
+   "zeit": "2026-10-27T17:40:00+01:00",
+   "equity": 4610.63
+  },
+  {
+   "zeit": "2026-10-27T18:10:00+01:00",
+   "equity": 4614.0
+  },
+  {
+   "zeit": "2026-10-27T18:38:00+01:00",
+   "equity": 4614.67
+  },
+  {
+   "zeit": "2026-10-28T09:12:00+01:00",
+   "equity": 4763.65
+  },
+  {
+   "zeit": "2026-10-28T09:43:00+01:00",
+   "equity": 4825.77
+  },
+  {
+   "zeit": "2026-10-28T10:18:00+01:00",
+   "equity": 4833.67
+  },
+  {
+   "zeit": "2026-10-28T10:46:00+01:00",
+   "equity": 4842.2
+  },
+  {
+   "zeit": "2026-10-28T11:16:00+01:00",
+   "equity": 4794.82
+  },
+  {
+   "zeit": "2026-10-28T15:21:00+01:00",
+   "equity": 4870.24
+  },
+  {
+   "zeit": "2026-10-28T15:46:00+01:00",
+   "equity": 4948.43
+  },
+  {
+   "zeit": "2026-10-28T16:20:00+01:00",
+   "equity": 4948.43
+  },
+  {
+   "zeit": "2026-10-28T16:45:00+01:00",
+   "equity": 4948.43
+  },
+  {
+   "zeit": "2026-11-02T14:12:00+01:00",
+   "equity": 4948.43
+  },
+  {
+   "zeit": "2026-11-02T14:46:00+01:00",
+   "equity": 4948.43
+  },
+  {
+   "zeit": "2026-11-02T15:47:00+01:00",
+   "equity": 4948.43
+  },
+  {
+   "zeit": "2026-11-02T16:16:00+01:00",
+   "equity": 4948.43
+  },
+  {
+   "zeit": "2026-11-02T17:15:00+01:00",
+   "equity": 4948.43
+  },
+  {
+   "zeit": "2026-11-02T17:45:00+01:00",
+   "equity": 4948.43
+  },
+  {
+   "zeit": "2026-11-02T18:13:00+01:00",
+   "equity": 4948.43
+  },
+  {
+   "zeit": "2026-11-02T20:15:00+01:00",
+   "equity": 4948.43
+  },
+  {
+   "zeit": "2026-11-03T08:20:00+01:00",
+   "equity": 5088.0
+  },
+  {
+   "zeit": "2026-11-03T08:18:00+01:00",
+   "equity": 5089.13
+  }
+ ],
+ "feed": [
+  {
+   "zeit": "2026-11-02T16:16:00+01:00",
+   "text": "Kein Trade – das Webterminal verbindet weiterhin nicht (Error 10), Kontodaten nicht lesbar. Der 16:01-Ausbruch wurde wegen der ISM-Daten ohnehin ausgesetzt. Kontostand zuletzt 4.948,43 €."
+  },
+  {
+   "zeit": "2026-11-02T16:47:00+01:00",
+   "text": "Kein Trade – Webterminal verbindet weiterhin nicht (Error 10), Kontodaten nicht lesbar. Werte zeigen den letzten bekannten Stand."
+  },
+  {
+   "zeit": "2026-11-02T17:15:00+01:00",
+   "text": "Kein Trade – Webterminal verbindet weiterhin nicht (Error 10), Kontodaten nicht lesbar. Werte zeigen den letzten bekannten Stand."
+  },
+  {
+   "zeit": "2026-11-02T17:45:00+01:00",
+   "text": "Kein Trade – Webterminal verbindet weiterhin nicht (Error 10), Kontodaten nicht lesbar. Werte zeigen den letzten bekannten Stand."
+  },
+  {
+   "zeit": "2026-11-02T18:13:00+01:00",
+   "text": "Kein Trade – Webterminal seit 13:41 ohne Verbindung (Error 10). Trading-Zyklen pausiert, bis das Konto neu verbunden ist."
+  },
+  {
+   "zeit": "2026-11-02T20:15:00+01:00",
+   "text": "Schicht beendet – heute keine Trades, da das Webterminal seit 13:41 nicht verbunden ist (Error 10). Letzter bekannter Stand 4.948,43 €, seit Start +420,30 € (+9,3 %). Startstand für morgen: 4.948,43 €."
+  },
+  {
+   "zeit": "2026-11-03T08:20:00+01:00",
+   "text": "Gold-Kombi A (Asia-Ausbruch): keine Order – Trend H4 short, Kurs lag schon unter dem Spannentief 3.913,38, Ausbruch verpasst. Konto wieder verbunden, Balance 5.064,54 €."
+  },
+  {
+   "zeit": "2026-11-03T08:18:00+01:00",
+   "text": "Webterminal wieder verbunden. Balance 5.064,54 €, Equity 5.089,13 €. Offen: manueller Gold-Short 0,04 Lot (+24,59 €). Kein eigener neuer Trade in diesem Zyklus – der 08:01-Gold-Lauf ist gerade aktiv."
+  }
+ ]
 }
